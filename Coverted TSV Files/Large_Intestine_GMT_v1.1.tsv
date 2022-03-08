@@ -1,0 +1,1351 @@
+absorptive (0)	keratin 20, BEST4
+goblet (1)	keratin 20, MUC2
+epithelial stem cell (2)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (3)	DEFA5
+neuroendocrine (4)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (5)	keratin 20, BEST4
+goblet (6)	keratin 20, MUC2
+transient amplifying cell (7)	keratin 20
+tuft cell (8)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (9)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (10)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (11)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (12)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (13)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (14)	CD11b, CD294
+subepithelial membrane (15)	aSMA
+pericryptal fibroblastic sheath (16)	aSMA, WNT2B, RSPO3
+capillary endothelium (17)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (18)	PECAM1/CD31, podoplanin
+pericyte (19)	PDGFRB
+myofibroblast (20)	aSMA
+fibroblast (21)	Col6A1, Col6A2
+nerve/schwann cell (22)	S100, CD56, PGP9.5
+ganglion (23)	peripherin, MAP-2
+neuroendocrine cell (24)	chromogranin A, synaptophysin, INSM1
+M cell (25)
+B cell (26)	CD21, CD19, CD20, CD79a
+CD4+ T cell (27)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (28)	CD4, FOXP3, CD25
+CD8+ T cell (29)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (30)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (31)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (32)	LYVE-1
+ILV high endothelial venule endothelium (33)	MADCAM1
+B cell (34)	CD21, CD19, CD20, CD79a
+plasma cell (35)	CD138
+CD4+ T cell (36)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (37)	CD4, FOXP3, CD25
+CD8+ T cell (38)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (39)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (40)	CD11b, CD294
+mast cell (41)	CD117, MCT
+neutrophil (normally intravascular only) (42)	CD15, CD16
+NK cell (43)	CD56, CD57, CD11c, NKG2D
+dendritic cell (44)	HLA-DR, CD11c, CD123
+innate lymphoid cell (45)	CD127, CD117, CD161
+fibroblast (46)	Col6A1, Col6A2
+nerve (47)	PDL1, CD56, PGP9.5
+capillary endothelium (48)	CD31, CD34, CD36
+lymphatic endothelium (49)	CD31, podoplanin
+pericyte (50)	PDGFRB
+adipocyte (51)	S100
+fibroblast (52)	Col6A1, Col6A2
+nerve (53)	S100, SOX10, PGP9.5
+arteriole endothelium (54)	CD31, CD34, CD36
+venule endothelium (55)	CD31, CD34, CD36
+lymphatic endothelium (56)	CD31, podoplanin
+capillary endothelium (57)	PECAM1/CD31, CD34, CD36
+pericyte (58)	PDGFRB
+CD4+ T cell (59)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (60)	CD4, FOXP3, CD25
+CD8+ T cell (61)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (62)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (63)	CD56, CD57, CD11c, NKG2D
+dendritic cell (64)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (65)	LYVE-1
+ILV high endothelial venule endothelium (66)	MADCAM1
+pericyte (67)	PDGFRB
+M cell (68)
+B cell (69)	CD21, CD19, CD20, CD79a
+nerve (70)	S100, SOX10, PGP9.5
+ganglion (71)	peripherin, MAP-2
+nerve (72)	S100, SOX10, PGP9.5
+ganglion (73)	peripherin, MAP-2
+nerve (74)	S100, SOX10, PGP9.5
+ganglion (75)	peripherin, MAP-2
+interstitial cell of Cajal (76)	CD117, CD34
+muscle (77)	aSMA, smoothelin
+fibroblast (78)	Col6A1, Col6A2
+nerve (79)	S100, SOX10, PGP9.5
+arteriole endothelium (80)	CD31, CD34, CD36
+venule endothelium (81)	CD31, CD34, CD36
+lymphatic endothelium (82)	CD31, podoplanin
+pericyte (83)	PDGFRB
+interstitial cell of Cajal (84)	CD117, CD34
+ganglion (85)	peripherin, MAP-2
+nerve (86)	S100, SOX10, PGP9.5
+fibroblast (87)	Col6A1, Col6A2
+arteriole endothelium (88)	CD31, CD34, CD36
+venule endothelium (89)	CD31, CD34, CD36
+lymphatic endothelium (90)	PDL1, CD56, PGP9.5
+pericyte (91)	PDGFRB
+muscle (92)	aSMA, smoothelin
+fibroblast (93)	Col6A1, Col6A2
+nerve (94)	S100, SOX10, PGP9.5
+arteriole endothelium (95)	CD31, CD34, CD36
+venule endothelium (96)	CD31, CD34, CD36
+lymphatic endothelium (97)	CD31, podoplanin
+pericyte (98)	CD31
+fibroblast (99)	Col6A1, Col6A2
+nerve (100)	S100, SOX10, PGP9.5
+arteriole endothelium (101)	CD31, CD34, CD36
+venule endothelium (102)	CD31, CD34, CD36
+lymphatic endothelium (103)	CD31, podoplanin
+adipocyte (104)	S100
+pericyte (105)	PDGFRB
+mesothelial cell (106)	keratin 8, keratin 18, calretinin
+absorptive (107)	keratin 20, BEST4
+goblet (108)	keratin 20, MUC2
+epithelial stem cell (109)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (110)	defensin alpha 5
+neuroendocrine (111)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (112)	keratin 20, BEST4
+goblet (113)	keratin 20, MUC2
+transient amplifying cell (114)	keratin 20
+tuft cell (115)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (116)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (117)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (118)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (119)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (120)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (121)	CD11b, CD294
+subepithelial membrane (122)	aSMA
+pericryptal fibroblastic sheath (123)	aSMA
+capillary endothelium (124)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (125)	PECAM1/CD31, podoplanin
+pericyte (126)	PDGFRB
+myofibroblast (127)	aSMA
+fibroblast (128)	Col6A1, Col6A2
+nerve/schwann cell (129)	S100, CD56, PGP9.5
+ganglion (130)	peripherin, MAP-2
+neuroendocrine cell (131)	chromogranin A, synaptophysin, INSM1
+M cell (132)
+B cell (133)	CD21, CD19, CD20, CD79a
+CD4+ T cell (134)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (135)	CD4, FOXP3, CD25
+CD8+ T cell (136)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (137)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (138)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (139)	LYVE-1
+ILV high endothelial venule endothelium (140)	MADCAM1
+B cell (141)	CD21, CD19, CD20, CD79a
+plasma cell (142)	CD138
+CD4+ T cell (143)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (144)	CD4, FOXP3, CD25
+CD8+ T cell (145)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (146)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (147)	CD11b, CD294
+mast cell (148)	CD117, MCT
+neutrophil (normally intravascular only) (149)	CD15, CD16
+NK cell (150)	CD56, CD57, CD11c, NKG2D
+dendritic cell (151)	HLA-DR, CD11c, CD123
+innate lymphoid cell (152)	CD127, CD117, CD161
+fibroblast (153)	Col6A1, Col6A2
+nerve (154)	PDL1, CD56, PGP9.5
+capillary endothelium (155)	CD31, CD34, CD36
+lymphatic endothelium (156)	CD31, podoplanin
+pericyte (157)	PDGFRB
+adipocyte (158)	S100
+fibroblast (159)	Col6A1, Col6A2
+nerve (160)	S100, SOX10, PGP9.5
+arteriole endothelium (161)	CD31, CD34, CD36
+venule endothelium (162)	CD31, CD34, CD36
+lymphatic endothelium (163)	CD31, podoplanin
+pericyte (164)	PDGFRB
+CD4+ T cell (165)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (166)	CD4, FOXP3, CD25
+CD8+ T cell (167)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (168)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (169)	CD56, CD57, CD11c, NKG2D
+dendritic cell (170)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (171)	LYVE-1
+ILV high endothelial venule endothelium (172)	MADCAM1
+pericyte (173)	PDGFRB
+M cell (174)
+B cell (175)	CD21, CD19, CD20, CD79a
+nerve (176)	S100, SOX10, PGP9.5
+ganglion (177)	peripherin, MAP-2
+nerve (178)	S100, SOX10, PGP9.5
+ganglion (179)	peripherin, MAP-2
+nerve (180)	S100, SOX10, PGP9.5
+ganglion (181)	peripherin, MAP-2
+interstitial cell of Cajal (182)	CD117, CD34
+muscle (183)	aSMA, smoothelin
+fibroblast (184)	Col6A1, Col6A2
+nerve (185)	S100, SOX10, PGP9.5
+arteriole endothelium (186)	CD31, CD34, CD36
+venule endothelium (187)	CD31, CD34, CD36
+lymphatic endothelium (188)	CD31, podoplanin
+pericyte (189)	PDGFRB
+interstitial cell of Cajal (190)	CD117, CD34
+ganglion (191)	peripherin, MAP-2
+nerve (192)	S100, SOX10, PGP9.5
+fibroblast (193)	Col6A1, Col6A2
+arteriole endothelium (194)	CD31, CD34, CD36
+venule endothelium (195)	CD31, CD34, CD36
+lymphatic endothelium (196)	PDL1, CD56, PGP9.5
+pericyte (197)	PDGFRB
+muscle (198)	aSMA, smoothelin
+fibroblast (199)	Col6A1, Col6A2
+nerve (200)	S100, SOX10, PGP9.5
+arteriole endothelium (201)	CD31, CD34, CD36
+venule endothelium (202)	CD31, CD34, CD36
+lymphatic endothelium (203)	CD31, podoplanin
+pericyte (204)	CD31
+fibroblast (205)	Col6A1, Col6A2
+nerve (206)	S100, SOX10, PGP9.5
+arteriole endothelium (207)	CD31, CD34, CD36
+venule endothelium (208)	CD31, CD34, CD36
+lymphatic endothelium (209)	CD31, podoplanin
+adipocyte (210)	S100
+pericyte (211)	PDGFRB
+mesothelial cell (212)	keratin 8, keratin 18, calretinin
+absorptive (213)	keratin 20, BEST4
+goblet (214)	keratin 20, MUC2
+epithelial stem cell (215)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (216)	defensin alpha 5
+neuroendocrine (217)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (218)	keratin 20, BEST4
+goblet (219)	keratin 20, MUC2
+transient amplifying cell (220)	keratin 20
+tuft cell (221)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (222)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (223)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (224)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (225)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (226)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (227)	CD11b, CD294
+subepithelial membrane (228)	aSMA
+pericryptal fibroblastic sheath (229)	aSMA
+capillary endothelium (230)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (231)	PECAM1/CD31, podoplanin
+pericyte (232)	PDGFRB
+myofibroblast (233)	aSMA
+fibroblast (234)	Col6A1, Col6A2
+nerve/schwann cell (235)	S100, CD56, PGP9.5
+ganglion (236)	peripherin, MAP-2
+neuroendocrine cell (237)	chromogranin A, synaptophysin, INSM1
+M cell (238)
+B cell (239)	CD21, CD19, CD20, CD79a
+CD4+ T cell (240)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (241)	CD4, FOXP3, CD25
+CD8+ T cell (242)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (243)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (244)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (245)	LYVE-1
+ILV high endothelial venule endothelium (246)	MADCAM1
+B cell (247)	CD21, CD19, CD20, CD79a
+plasma cell (248)	CD138
+CD4+ T cell (249)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (250)	CD4, FOXP3, CD25
+CD8+ T cell (251)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (252)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (253)	CD11b, CD294
+mast cell (254)	CD117, MCT
+neutrophil (normally intravascular only) (255)	CD15, CD16
+NK cell (256)	CD56, CD57, CD11c, NKG2D
+dendritic cell (257)	HLA-DR, CD11c, CD123
+innate lymphoid cell (258)	CD127, CD117, CD161
+fibroblast (259)	Col6A1, Col6A2
+nerve (260)	PDL1, CD56, PGP9.5
+capillary endothelium (261)	CD31, CD34, CD36
+lymphatic endothelium (262)	CD31, podoplanin
+pericyte (263)	PDGFRB
+adipocyte (264)	S100
+fibroblast (265)	Col6A1, Col6A2
+nerve (266)	S100, SOX10, PGP9.5
+arteriole endothelium (267)	CD31, CD34, CD36
+venule endothelium (268)	CD31, CD34, CD36
+lymphatic endothelium (269)	CD31, podoplanin
+pericyte (270)	PDGFRB
+CD4+ T cell (271)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (272)	CD4, FOXP3, CD25
+CD8+ T cell (273)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (274)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (275)	CD56, CD57, CD11c, NKG2D
+dendritic cell (276)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (277)	LYVE-1
+ILV high endothelial venule endothelium (278)	MADCAM1
+pericyte (279)	PDGFRB
+M cell (280)
+B cell (281)	CD21, CD19, CD20, CD79a
+nerve (282)	S100, SOX10, PGP9.5
+ganglion (283)	peripherin, MAP-2
+nerve (284)	S100, SOX10, PGP9.5
+ganglion (285)	peripherin, MAP-2
+nerve (286)	S100, SOX10, PGP9.5
+ganglion (287)	peripherin, MAP-2
+interstitial cell of Cajal (288)	CD117, CD34
+muscle (289)	aSMA, smoothelin
+fibroblast (290)	Col6A1, Col6A2
+nerve (291)	S100, SOX10, PGP9.5
+arteriole endothelium (292)	CD31, CD34, CD36
+venule endothelium (293)	CD31, CD34, CD36
+lymphatic endothelium (294)	CD31, podoplanin
+pericyte (295)	PDGFRB
+interstitial cell of Cajal (296)	CD117, CD34
+ganglion (297)	peripherin, MAP-2
+nerve (298)	S100, SOX10, PGP9.5
+fibroblast (299)	Col6A1, Col6A2
+arteriole endothelium (300)	CD31, CD34, CD36
+venule endothelium (301)	CD31, CD34, CD36
+lymphatic endothelium (302)	PDL1, CD56, PGP9.5
+pericyte (303)	PDGFRB
+muscle (304)	aSMA, smoothelin
+fibroblast (305)	Col6A1, Col6A2
+nerve (306)	S100, SOX10, PGP9.5
+arteriole endothelium (307)	CD31, CD34, CD36
+venule endothelium (308)	CD31, CD34, CD36
+lymphatic endothelium (309)	CD31, podoplanin
+pericyte (310)	CD31
+fibroblast (311)	Col6A1, Col6A2
+nerve (312)	S100, SOX10, PGP9.5
+arteriole endothelium (313)	CD31, CD34, CD36
+venule endothelium (314)	CD31, CD34, CD36
+lymphatic endothelium (315)	CD31, podoplanin
+adipocyte (316)	S100
+pericyte (317)	PDGFRB
+mesothelial cell (318)	keratin 8, keratin 18, calretinin
+absorptive (319)	keratin 20, BEST4
+goblet (320)	keratin 20, MUC2
+epithelial stem cell (321)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (322)	defensin alpha 5
+neuroendocrine (323)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (324)	keratin 20, BEST4
+goblet (325)	keratin 20, MUC2
+transient amplifying cell (326)	keratin 20
+tuft cell (327)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (328)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (329)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (330)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (331)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (332)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (333)	CD11b, CD294
+subepithelial membrane (334)	aSMA
+pericryptal fibroblastic sheath (335)	aSMA
+capillary endothelium (336)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (337)	PECAM1/CD31, podoplanin
+pericyte (338)	PDGFRB
+myofibroblast (339)	aSMA
+fibroblast (340)	Col6A1, Col6A2
+nerve/schwann cell (341)	S100, CD56, PGP9.5
+ganglion (342)	peripherin, MAP-2
+neuroendocrine cell (343)	chromogranin A, synaptophysin, INSM1
+M cell (344)
+B cell (345)	CD21, CD19, CD20, CD79a
+CD4+ T cell (346)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (347)	CD4, FOXP3, CD25
+CD8+ T cell (348)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (349)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (350)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (351)	LYVE-1
+ILV high endothelial venule endothelium (352)	MADCAM1
+B cell (353)	CD21, CD19, CD20, CD79a
+plasma cell (354)	CD138
+CD4+ T cell (355)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (356)	CD4, FOXP3, CD25
+CD8+ T cell (357)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (358)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (359)	CD11b, CD294
+mast cell (360)	CD117, MCT
+neutrophil (normally intravascular only) (361)	CD15, CD16
+NK cell (362)	CD56, CD57, CD11c, NKG2D
+dendritic cell (363)	HLA-DR, CD11c, CD123
+innate lymphoid cell (364)	CD127, CD117, CD161
+fibroblast (365)	Col6A1, Col6A2
+nerve (366)	PDL1, CD56, PGP9.5
+capillary endothelium (367)	CD31, CD34, CD36
+lymphatic endothelium (368)	CD31, podoplanin
+pericyte (369)	PDGFRB
+adipocyte (370)	S100
+fibroblast (371)	Col6A1, Col6A2
+nerve (372)	S100, SOX10, PGP9.5
+arteriole endothelium (373)	CD31, CD34, CD36
+venule endothelium (374)	CD31, CD34, CD36
+lymphatic endothelium (375)	CD31, podoplanin
+pericyte (376)	PDGFRB
+CD4+ T cell (377)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (378)	CD4, FOXP3, CD25
+CD8+ T cell (379)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (380)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (381)	CD56, CD57, CD11c, NKG2D
+dendritic cell (382)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (383)	LYVE-1
+ILV high endothelial venule endothelium (384)	MADCAM1
+pericyte (385)	PDGFRB
+M cell (386)
+B cell (387)	CD21, CD19, CD20, CD79a
+nerve (388)	S100, SOX10, PGP9.5
+ganglion (389)	peripherin, MAP-2
+nerve (390)	S100, SOX10, PGP9.5
+ganglion (391)	peripherin, MAP-2
+nerve (392)	S100, SOX10, PGP9.5
+ganglion (393)	peripherin, MAP-2
+interstitial cell of Cajal (394)	CD117, CD34
+muscle (395)	aSMA, smoothelin
+fibroblast (396)	Col6A1, Col6A2
+nerve (397)	S100, SOX10, PGP9.5
+arteriole endothelium (398)	CD31, CD34, CD36
+venule endothelium (399)	CD31, CD34, CD36
+lymphatic endothelium (400)	CD31, podoplanin
+pericyte (401)	PDGFRB
+interstitial cell of Cajal (402)	CD117, CD34
+ganglion (403)	peripherin, MAP-2
+nerve (404)	S100, SOX10, PGP9.5
+fibroblast (405)	Col6A1, Col6A2
+arteriole endothelium (406)	CD31, CD34, CD36
+venule endothelium (407)	CD31, CD34, CD36
+lymphatic endothelium (408)	PDL1, CD56, PGP9.5
+pericyte (409)	PDGFRB
+muscle (410)	aSMA, smoothelin
+fibroblast (411)	Col6A1, Col6A2
+nerve (412)	S100, SOX10, PGP9.5
+arteriole endothelium (413)	CD31, CD34, CD36
+venule endothelium (414)	CD31, CD34, CD36
+lymphatic endothelium (415)	CD31, podoplanin
+pericyte (416)	CD31
+fibroblast (417)	Col6A1, Col6A2
+nerve (418)	S100, SOX10, PGP9.5
+arteriole endothelium (419)	CD31, CD34, CD36
+venule endothelium (420)	CD31, CD34, CD36
+lymphatic endothelium (421)	CD31, podoplanin
+adipocyte (422)	S100
+pericyte (423)	PDGFRB
+smooth muscle (424)	aSMA
+smooth muscle (425)	aSMA
+smooth muscle (426)	aSMA
+mesothelial cell (427)	keratin 8, keratin 18, calretinin
+absorptive (428)	keratin 20, BEST4
+goblet (429)	keratin 20, MUC2
+epithelial stem cell (430)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (431)	defensin alpha 5
+neuroendocrine (432)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (433)	keratin 20, BEST4
+goblet (434)	keratin 20, MUC2
+transient amplifying cell (435)	keratin 20
+tuft cell (436)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (437)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (438)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (439)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (440)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (441)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (442)	CD11b, CD294
+subepithelial membrane (443)	aSMA
+pericryptal fibroblastic sheath (444)	aSMA
+capillary endothelium (445)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (446)	PECAM1/CD31, podoplanin
+pericyte (447)	PDGFRB
+myofibroblast (448)	aSMA
+fibroblast (449)	Col6A1, Col6A2
+nerve/schwann cell (450)	S100, CD56, PGP9.5
+ganglion (451)	peripherin, MAP-2
+neuroendocrine cell (452)	chromogranin A, synaptophysin, INSM1
+M cell (453)
+B cell (454)	CD21, CD19, CD20, CD79a
+CD4+ T cell (455)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (456)	CD4, FOXP3, CD25
+CD8+ T cell (457)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (458)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (459)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (460)	LYVE-1
+ILV high endothelial venule endothelium (461)	MADCAM1
+B cell (462)	CD21, CD19, CD20, CD79a
+plasma cell (463)	CD138
+CD4+ T cell (464)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (465)	CD4, FOXP3, CD25
+CD8+ T cell (466)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (467)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (468)	CD11b, CD294
+mast cell (469)	CD117, MCT
+neutrophil (normally intravascular only) (470)	CD15, CD16
+NK cell (471)	CD56, CD57, CD11c, NKG2D
+dendritic cell (472)	HLA-DR, CD11c, CD123
+innate lymphoid cell (473)	CD127, CD117, CD161
+fibroblast (474)	Col6A1, Col6A2
+nerve (475)	PDL1, CD56, PGP9.5
+capillary endothelium (476)	CD31, CD34, CD36
+lymphatic endothelium (477)	CD31, podoplanin
+pericyte (478)	PDGFRB
+adipocyte (479)	S100
+fibroblast (480)	Col6A1, Col6A2
+nerve (481)	S100, SOX10, PGP9.5
+arteriole endothelium (482)	CD31, CD34, CD36
+venule endothelium (483)	CD31, CD34, CD36
+lymphatic endothelium (484)	CD31, podoplanin
+pericyte (485)	PDGFRB
+CD4+ T cell (486)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (487)	CD4, FOXP3, CD25
+CD8+ T cell (488)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (489)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (490)	CD56, CD57, CD11c, NKG2D
+dendritic cell (491)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (492)	LYVE-1
+ILV high endothelial venule endothelium (493)	MADCAM1
+pericyte (494)	PDGFRB
+M cell (495)
+B cell (496)	CD21, CD19, CD20, CD79a
+nerve (497)	S100, SOX10, PGP9.5
+ganglion (498)	peripherin, MAP-2
+nerve (499)	S100, SOX10, PGP9.5
+ganglion (500)	peripherin, MAP-2
+nerve (501)	S100, SOX10, PGP9.5
+ganglion (502)	peripherin, MAP-2
+interstitial cell of Cajal (503)	CD117, CD34
+muscle (504)	aSMA, smoothelin
+fibroblast (505)	Col6A1, Col6A2
+nerve (506)	S100, SOX10, PGP9.5
+arteriole endothelium (507)	CD31, CD34, CD36
+venule endothelium (508)	CD31, CD34, CD36
+lymphatic endothelium (509)	CD31, podoplanin
+pericyte (510)	PDGFRB
+interstitial cell of Cajal (511)	CD117, CD34
+ganglion (512)	peripherin, MAP-2
+nerve (513)	S100, SOX10, PGP9.5
+fibroblast (514)	Col6A1, Col6A2
+arteriole endothelium (515)	CD31, CD34, CD36
+venule endothelium (516)	CD31, CD34, CD36
+lymphatic endothelium (517)	PDL1, CD56, PGP9.5
+pericyte (518)	PDGFRB
+muscle (519)	aSMA, smoothelin
+fibroblast (520)	Col6A1, Col6A2
+nerve (521)	S100, SOX10, PGP9.5
+arteriole endothelium (522)	CD31, CD34, CD36
+venule endothelium (523)	CD31, CD34, CD36
+lymphatic endothelium (524)	CD31, podoplanin
+pericyte (525)	CD31
+fibroblast (526)	Col6A1, Col6A2
+nerve (527)	S100, SOX10, PGP9.5
+arteriole endothelium (528)	CD31, CD34, CD36
+venule endothelium (529)	CD31, CD34, CD36
+lymphatic endothelium (530)	CD31, podoplanin
+adipocyte (531)	S100
+pericyte (532)	PDGFRB
+smooth muscle (533)	aSMA
+smooth muscle (534)	aSMA
+smooth muscle (535)	aSMA
+mesothelial cell (536)	keratin 8, keratin 18, calretinin
+absorptive (537)	keratin 20, BEST4
+goblet (538)	keratin 20, MUC2
+epithelial stem cell (539)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (540)	defensin alpha 5
+neuroendocrine (541)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (542)	keratin 20, BEST4
+goblet (543)	keratin 20, MUC2
+transient amplifying cell (544)	keratin 20
+tuft cell (545)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (546)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (547)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (548)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (549)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (550)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (551)	CD11b, CD294
+subepithelial membrane (552)	aSMA
+pericryptal fibroblastic sheath (553)	aSMA
+capillary endothelium (554)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (555)	PECAM1/CD31, podoplanin
+pericyte (556)	PDGFRB
+myofibroblast (557)	aSMA
+fibroblast (558)	Col6A1, Col6A2
+nerve/schwann cell (559)	S100, CD56, PGP9.5
+ganglion (560)	peripherin, MAP-2
+neuroendocrine cell (561)	chromogranin A, synaptophysin, INSM1
+M cell (562)
+B cell (563)	CD21, CD19, CD20, CD79a
+CD4+ T cell (564)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (565)	CD4, FOXP3, CD25
+CD8+ T cell (566)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (567)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (568)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (569)	LYVE-1
+ILV high endothelial venule endothelium (570)	MADCAM1
+B cell (571)	CD21, CD19, CD20, CD79a
+plasma cell (572)	CD138
+CD4+ T cell (573)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (574)	CD4, FOXP3, CD25
+CD8+ T cell (575)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (576)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (577)	CD11b, CD294
+mast cell (578)	CD117, MCT
+neutrophil (normally intravascular only) (579)	CD15, CD16
+NK cell (580)	CD56, CD57, CD11c, NKG2D
+dendritic cell (581)	HLA-DR, CD11c, CD123
+innate lymphoid cell (582)	CD127, CD117, CD161
+fibroblast (583)	Col6A1, Col6A2
+nerve (584)	PDL1, CD56, PGP9.5
+capillary endothelium (585)	CD31, CD34, CD36
+lymphatic endothelium (586)	CD31, podoplanin
+pericyte (587)	PDGFRB
+adipocyte (588)	S100
+fibroblast (589)	Col6A1, Col6A2
+nerve (590)	S100, SOX10, PGP9.5
+arteriole endothelium (591)	CD31, CD34, CD36
+venule endothelium (592)	CD31, CD34, CD36
+lymphatic endothelium (593)	CD31, podoplanin
+pericyte (594)	PDGFRB
+CD4+ T cell (595)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (596)	CD4, FOXP3, CD25
+CD8+ T cell (597)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (598)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (599)	CD56, CD57, CD11c, NKG2D
+dendritic cell (600)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (601)	LYVE-1
+ILV high endothelial venule endothelium (602)	MADCAM1
+pericyte (603)	PDGFRB
+M cell (604)
+B cell (605)	CD21, CD19, CD20, CD79a
+nerve (606)	S100, SOX10, PGP9.5
+ganglion (607)	peripherin, MAP-2
+nerve (608)	S100, SOX10, PGP9.5
+ganglion (609)	peripherin, MAP-2
+nerve (610)	S100, SOX10, PGP9.5
+ganglion (611)	peripherin, MAP-2
+interstitial cell of Cajal (612)	CD117, CD34
+muscle (613)	aSMA, smoothelin
+fibroblast (614)	Col6A1, Col6A2
+nerve (615)	S100, SOX10, PGP9.5
+arteriole endothelium (616)	CD31, CD34, CD36
+venule endothelium (617)	CD31, CD34, CD36
+lymphatic endothelium (618)	CD31, podoplanin
+pericyte (619)	PDGFRB
+interstitial cell of Cajal (620)	CD117, CD34
+ganglion (621)	peripherin, MAP-2
+nerve (622)	S100, SOX10, PGP9.5
+fibroblast (623)	Col6A1, Col6A2
+arteriole endothelium (624)	CD31, CD34, CD36
+venule endothelium (625)	CD31, CD34, CD36
+lymphatic endothelium (626)	PDL1, CD56, PGP9.5
+pericyte (627)	PDGFRB
+muscle (628)	aSMA, smoothelin
+fibroblast (629)	Col6A1, Col6A2
+nerve (630)	S100, SOX10, PGP9.5
+arteriole endothelium (631)	CD31, CD34, CD36
+venule endothelium (632)	CD31, CD34, CD36
+lymphatic endothelium (633)	CD31, podoplanin
+pericyte (634)	CD31
+fibroblast (635)	Col6A1, Col6A2
+nerve (636)	S100, SOX10, PGP9.5
+arteriole endothelium (637)	CD31, CD34, CD36
+venule endothelium (638)	CD31, CD34, CD36
+lymphatic endothelium (639)	CD31, podoplanin
+adipocyte (640)	S100
+pericyte (641)	PDGFRB
+smooth muscle (642)	aSMA
+smooth muscle (643)	aSMA
+smooth muscle (644)	aSMA
+mesothelial cell (645)	keratin 8, keratin 18, calretinin
+absorptive (646)	keratin 20, BEST4
+goblet (647)	keratin 20, MUC2
+epithelial stem cell (648)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (649)	defensin alpha 5
+neuroendocrine (650)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (651)	keratin 20, BEST4
+goblet (652)	keratin 20, MUC2
+transient amplifying cell (653)	keratin 20
+tuft cell (654)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (655)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (656)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (657)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (658)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (659)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (660)	CD11b, CD294
+subepithelial membrane (661)	aSMA
+pericryptal fibroblastic sheath (662)	aSMA
+capillary endothelium (663)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (664)	PECAM1/CD31, podoplanin
+pericyte (665)	PDGFRB
+myofibroblast (666)	aSMA
+fibroblast (667)	Col6A1, Col6A2
+nerve/schwann cell (668)	S100, CD56, PGP9.5
+ganglion (669)	peripherin, MAP-2
+neuroendocrine cell (670)	chromogranin A, synaptophysin, INSM1
+M cell (671)
+B cell (672)	CD21, CD19, CD20, CD79a
+CD4+ T cell (673)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (674)	CD4, FOXP3, CD25
+CD8+ T cell (675)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (676)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (677)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (678)	LYVE-1
+ILV high endothelial venule endothelium (679)	MADCAM1
+B cell (680)	CD21, CD19, CD20, CD79a
+plasma cell (681)	CD138
+CD4+ T cell (682)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (683)	CD4, FOXP3, CD25
+CD8+ T cell (684)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (685)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (686)	CD11b, CD294
+mast cell (687)	CD117, MCT
+neutrophil (normally intravascular only) (688)	CD15, CD16
+NK cell (689)	CD56, CD57, CD11c, NKG2D
+dendritic cell (690)	HLA-DR, CD11c, CD123
+innate lymphoid cell (691)	CD127, CD117, CD161
+fibroblast (692)	Col6A1, Col6A2
+nerve (693)	PDL1, CD56, PGP9.5
+capillary endothelium (694)	CD31, CD34, CD36
+lymphatic endothelium (695)	CD31, podoplanin
+pericyte (696)	PDGFRB
+adipocyte (697)	S100
+fibroblast (698)	Col6A1, Col6A2
+nerve (699)	S100, SOX10, PGP9.5
+arteriole endothelium (700)	CD31, CD34, CD36
+venule endothelium (701)	CD31, CD34, CD36
+lymphatic endothelium (702)	CD31, podoplanin
+pericyte (703)	PDGFRB
+CD4+ T cell (704)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (705)	CD4, FOXP3, CD25
+CD8+ T cell (706)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (707)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (708)	CD56, CD57, CD11c, NKG2D
+dendritic cell (709)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (710)	LYVE-1
+ILV high endothelial venule endothelium (711)	MADCAM1
+pericyte (712)	PDGFRB
+M cell (713)
+B cell (714)	CD21, CD19, CD20, CD79a
+nerve (715)	S100, SOX10, PGP9.5
+ganglion (716)	peripherin, MAP-2
+nerve (717)	S100, SOX10, PGP9.5
+ganglion (718)	peripherin, MAP-2
+nerve (719)	S100, SOX10, PGP9.5
+ganglion (720)	peripherin, MAP-2
+interstitial cell of Cajal (721)	CD117, CD34
+muscle (722)	aSMA, smoothelin
+fibroblast (723)	Col6A1, Col6A2
+nerve (724)	S100, SOX10, PGP9.5
+arteriole endothelium (725)	CD31, CD34, CD36
+venule endothelium (726)	CD31, CD34, CD36
+lymphatic endothelium (727)	CD31, podoplanin
+pericyte (728)	PDGFRB
+interstitial cell of Cajal (729)	CD117, CD34
+ganglion (730)	peripherin, MAP-2
+nerve (731)	S100, SOX10, PGP9.5
+fibroblast (732)	Col6A1, Col6A2
+arteriole endothelium (733)	CD31, CD34, CD36
+venule endothelium (734)	CD31, CD34, CD36
+lymphatic endothelium (735)	PDL1, CD56, PGP9.5
+pericyte (736)	PDGFRB
+muscle (737)	aSMA, smoothelin
+fibroblast (738)	Col6A1, Col6A2
+nerve (739)	S100, SOX10, PGP9.5
+arteriole endothelium (740)	CD31, CD34, CD36
+venule endothelium (741)	CD31, CD34, CD36
+lymphatic endothelium (742)	CD31, podoplanin
+pericyte (743)	CD31
+fibroblast (744)	Col6A1, Col6A2
+nerve (745)	S100, SOX10, PGP9.5
+arteriole endothelium (746)	CD31, CD34, CD36
+venule endothelium (747)	CD31, CD34, CD36
+lymphatic endothelium (748)	CD31, podoplanin
+adipocyte (749)	S100
+pericyte (750)	PDGFRB
+smooth muscle (751)	aSMA
+smooth muscle (752)	aSMA
+smooth muscle (753)	aSMA
+mesothelial cell (754)	keratin 8, keratin 18, calretinin
+absorptive (755)	keratin 20, BEST4
+goblet (756)	keratin 20, MUC2
+epithelial stem cell (757)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (758)	defensin alpha 5
+neuroendocrine (759)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (760)	keratin 20, BEST4
+goblet (761)	keratin 20, MUC2
+transient amplifying cell (762)	keratin 20
+tuft cell (763)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (764)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (765)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (766)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (767)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (768)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (769)	CD11b, CD294
+subepithelial membrane (770)	aSMA
+pericryptal fibroblastic sheath (771)	aSMA
+capillary endothelium (772)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (773)	PECAM1/CD31, podoplanin
+pericyte (774)	PDGFRB
+myofibroblast (775)	aSMA
+fibroblast (776)	Col6A1, Col6A2
+nerve/schwann cell (777)	S100, CD56, PGP9.5
+ganglion (778)	peripherin, MAP-2
+neuroendocrine cell (779)	chromogranin A, synaptophysin, INSM1
+M cell (780)
+B cell (781)	CD21, CD19, CD20, CD79a
+CD4+ T cell (782)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (783)	CD4, FOXP3, CD25
+CD8+ T cell (784)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (785)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (786)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (787)	LYVE-1
+ILV high endothelial venule endothelium (788)	MADCAM1
+B cell (789)	CD21, CD19, CD20, CD79a
+plasma cell (790)	CD138
+CD4+ T cell (791)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (792)	CD4, FOXP3, CD25
+CD8+ T cell (793)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (794)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (795)	CD11b, CD294
+mast cell (796)	CD117, MCT
+neutrophil (normally intravascular only) (797)	CD15, CD16
+NK cell (798)	CD56, CD57, CD11c, NKG2D
+dendritic cell (799)	HLA-DR, CD11c, CD123
+innate lymphoid cell (800)	CD127, CD117, CD161
+fibroblast (801)	Col6A1, Col6A2
+nerve (802)	PDL1, CD56, PGP9.5
+capillary endothelium (803)	CD31, CD34, CD36
+lymphatic endothelium (804)	CD31, podoplanin
+pericyte (805)	PDGFRB
+adipocyte (806)	S100
+fibroblast (807)	Col6A1, Col6A2
+nerve (808)	S100, SOX10, PGP9.5
+arteriole endothelium (809)	CD31, CD34, CD36
+venule endothelium (810)	CD31, CD34, CD36
+lymphatic endothelium (811)	CD31, podoplanin
+pericyte (812)	PDGFRB
+CD4+ T cell (813)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (814)	CD4, FOXP3, CD25
+CD8+ T cell (815)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (816)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (817)	CD56, CD57, CD11c, NKG2D
+dendritic cell (818)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (819)	LYVE-1
+ILV high endothelial venule endothelium (820)	MADCAM1
+pericyte (821)	PDGFRB
+M cell (822)
+B cell (823)	CD21, CD19, CD20, CD79a
+nerve (824)	S100, SOX10, PGP9.5
+ganglion (825)	peripherin, MAP-2
+nerve (826)	S100, SOX10, PGP9.5
+ganglion (827)	peripherin, MAP-2
+nerve (828)	S100, SOX10, PGP9.5
+ganglion (829)	peripherin, MAP-2
+interstitial cell of Cajal (830)	CD117, CD34
+muscle (831)	aSMA, smoothelin
+fibroblast (832)	Col6A1, Col6A2
+nerve (833)	S100, SOX10, PGP9.5
+arteriole endothelium (834)	CD31, CD34, CD36
+venule endothelium (835)	CD31, CD34, CD36
+lymphatic endothelium (836)	CD31, podoplanin
+pericyte (837)	PDGFRB
+interstitial cell of Cajal (838)	CD117, CD34
+ganglion (839)	peripherin, MAP-2
+nerve (840)	S100, SOX10, PGP9.5
+fibroblast (841)	Col6A1, Col6A2
+arteriole endothelium (842)	CD31, CD34, CD36
+venule endothelium (843)	CD31, CD34, CD36
+lymphatic endothelium (844)	PDL1, CD56, PGP9.5
+pericyte (845)	PDGFRB
+muscle (846)	aSMA, smoothelin
+fibroblast (847)	Col6A1, Col6A2
+nerve (848)	S100, SOX10, PGP9.5
+arteriole endothelium (849)	CD31, CD34, CD36
+venule endothelium (850)	CD31, CD34, CD36
+lymphatic endothelium (851)	CD31, podoplanin
+pericyte (852)	CD31
+fibroblast (853)	Col6A1, Col6A2
+nerve (854)	S100, SOX10, PGP9.5
+arteriole endothelium (855)	CD31, CD34, CD36
+venule endothelium (856)	CD31, CD34, CD36
+lymphatic endothelium (857)	CD31, podoplanin
+adipocyte (858)	S100
+pericyte (859)	PDGFRB
+smooth muscle (860)	aSMA
+smooth muscle (861)	aSMA
+smooth muscle (862)	aSMA
+mesothelial cell (863)	keratin 8, keratin 18, calretinin
+absorptive (864)	keratin 20, BEST4
+goblet (865)	keratin 20, MUC2
+epithelial stem cell (866)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (867)	defensin alpha 5
+neuroendocrine (868)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (869)	keratin 20, BEST4
+goblet (870)	keratin 20, MUC2
+transient amplifying cell (871)	keratin 20
+tuft cell (872)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (873)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (874)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (875)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (876)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (877)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (878)	CD11b, CD294
+subepithelial membrane (879)	aSMA
+pericryptal fibroblastic sheath (880)	aSMA
+capillary endothelium (881)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (882)	PECAM1/CD31, podoplanin
+pericyte (883)	PDGFRB
+myofibroblast (884)	aSMA
+fibroblast (885)	Col6A1, Col6A2
+nerve/schwann cell (886)	S100, CD56, PGP9.5
+ganglion (887)	peripherin, MAP-2
+neuroendocrine cell (888)	chromogranin A, synaptophysin, INSM1
+M cell (889)
+B cell (890)	CD21, CD19, CD20, CD79a
+CD4+ T cell (891)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (892)	CD4, FOXP3, CD25
+CD8+ T cell (893)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (894)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (895)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (896)	LYVE-1
+ILV high endothelial venule endothelium (897)	MADCAM1
+B cell (898)	CD21, CD19, CD20, CD79a
+plasma cell (899)	CD138
+CD4+ T cell (900)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (901)	CD4, FOXP3, CD25
+CD8+ T cell (902)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (903)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (904)	CD11b, CD294
+mast cell (905)	CD117, MCT
+neutrophil (normally intravascular only) (906)	CD15, CD16
+NK cell (907)	CD56, CD57, CD11c, NKG2D
+dendritic cell (908)	HLA-DR, CD11c, CD123
+innate lymphoid cell (909)	CD127, CD117, CD161
+fibroblast (910)	Col6A1, Col6A2
+nerve (911)	PDL1, CD56, PGP9.5
+capillary endothelium (912)	CD31, CD34, CD36
+lymphatic endothelium (913)	CD31, podoplanin
+pericyte (914)	PDGFRB
+adipocyte (915)	S100
+fibroblast (916)	Col6A1, Col6A2
+nerve (917)	S100, SOX10, PGP9.5
+arteriole endothelium (918)	CD31, CD34, CD36
+venule endothelium (919)	CD31, CD34, CD36
+lymphatic endothelium (920)	CD31, podoplanin
+pericyte (921)	PDGFRB
+CD4+ T cell (922)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (923)	CD4, FOXP3, CD25
+CD8+ T cell (924)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (925)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (926)	CD56, CD57, CD11c, NKG2D
+dendritic cell (927)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (928)	LYVE-1
+ILV high endothelial venule endothelium (929)	MADCAM1
+pericyte (930)	PDGFRB
+M cell (931)
+B cell (932)	CD21, CD19, CD20, CD79a
+nerve (933)	S100, SOX10, PGP9.5
+ganglion (934)	peripherin, MAP-2
+nerve (935)	S100, SOX10, PGP9.5
+ganglion (936)	peripherin, MAP-2
+nerve (937)	S100, SOX10, PGP9.5
+ganglion (938)	peripherin, MAP-2
+interstitial cell of Cajal (939)	CD117, CD34
+muscle (940)	aSMA, smoothelin
+fibroblast (941)	Col6A1, Col6A2
+nerve (942)	S100, SOX10, PGP9.5
+arteriole endothelium (943)	CD31, CD34, CD36
+venule endothelium (944)	CD31, CD34, CD36
+lymphatic endothelium (945)	CD31, podoplanin
+pericyte (946)	PDGFRB
+interstitial cell of Cajal (947)	CD117, CD34
+ganglion (948)	peripherin, MAP-2
+nerve (949)	S100, SOX10, PGP9.5
+fibroblast (950)	Col6A1, Col6A2
+arteriole endothelium (951)	CD31, CD34, CD36
+venule endothelium (952)	CD31, CD34, CD36
+lymphatic endothelium (953)	PDL1, CD56, PGP9.5
+pericyte (954)	PDGFRB
+muscle (955)	aSMA, smoothelin
+fibroblast (956)	Col6A1, Col6A2
+nerve (957)	S100, SOX10, PGP9.5
+arteriole endothelium (958)	CD31, CD34, CD36
+venule endothelium (959)	CD31, CD34, CD36
+lymphatic endothelium (960)	CD31, podoplanin
+pericyte (961)	CD31
+fibroblast (962)	Col6A1, Col6A2
+nerve (963)	S100, SOX10, PGP9.5
+arteriole endothelium (964)	CD31, CD34, CD36
+venule endothelium (965)	CD31, CD34, CD36
+lymphatic endothelium (966)	CD31, podoplanin
+adipocyte (967)	S100
+pericyte (968)	PDGFRB
+smooth muscle (969)	aSMA
+smooth muscle (970)	aSMA
+smooth muscle (971)	aSMA
+mesothelial cell (972)	keratin 8, keratin 18, calretinin
+absorptive (973)	keratin 20, BEST4
+goblet (974)	keratin 20, MUC2
+epithelial stem cell (975)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (976)	defensin alpha 5
+neuroendocrine (977)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (978)	keratin 20, BEST4
+goblet (979)	keratin 20, MUC2
+transient amplifying cell (980)	keratin 20
+tuft cell (981)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (982)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (983)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (984)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (985)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+eosinophil (986)	CD11b, CD294
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (987)	CD3, CD7, CD2, CD5, CD3-TCR
+subepithelial membrane (988)	aSMA
+pericryptal fibroblastic sheath (989)	aSMA
+capillary endothelium (990)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (991)	PECAM1/CD31, podoplanin
+pericyte (992)	PDGFRB
+myofibroblast (993)	aSMA
+fibroblast (994)	Col6A1, Col6A2
+nerve/schwann cell (995)	S100, CD56, PGP9.5
+ganglion (996)	peripherin, MAP-2
+neuroendocrine cell (997)	chromogranin A, synaptophysin, INSM1
+M cell (998)
+B cell (999)	CD21, CD19, CD20, CD79a
+CD4+ T cell (1000)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (1001)	CD4, FOXP3, CD25
+CD8+ T cell (1002)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (1003)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (1004)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (1005)	LYVE-1
+ILV high endothelial venule endothelium (1006)	MADCAM1
+B cell (1007)	CD21, CD19, CD20, CD79a
+plasma cell (1008)	CD138
+CD4+ T cell (1009)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (1010)	CD4, FOXP3, CD25
+CD8+ T cell (1011)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (1012)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (1013)	CD11b, CD294
+mast cell (1014)	CD117, MCT
+neutrophil (normally intravascular only) (1015)	CD15, CD16
+NK cell (1016)	CD56, CD57, CD11c, NKG2D
+dendritic cell (1017)	HLA-DR, CD11c, CD123
+innate lymphoid cell (1018)	CD127, CD117, CD161
+fibroblast (1019)	Col6A1, Col6A2
+nerve (1020)	PDL1, CD56, PGP9.5
+capillary endothelium (1021)	CD31, CD34, CD36
+lymphatic endothelium (1022)	CD31, podoplanin
+pericyte (1023)	PDGFRB
+adipocyte (1024)	S100
+fibroblast (1025)	Col6A1, Col6A2
+nerve (1026)	S100, SOX10, PGP9.5
+arteriole endothelium (1027)	CD31, CD34, CD36
+venule endothelium (1028)	CD31, CD34, CD36
+lymphatic endothelium (1029)	CD31, podoplanin
+pericyte (1030)	PDGFRB
+CD4+ T cell (1031)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (1032)	CD4, FOXP3, CD25
+CD8+ T cell (1033)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (1034)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (1035)	CD56, CD57, CD11c, NKG2D
+dendritic cell (1036)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (1037)	LYVE-1
+ILV high endothelial venule endothelium (1038)	MADCAM1
+pericyte (1039)	PDGFRB
+M cell (1040)
+B cell (1041)	CD21, CD19, CD20, CD79a
+nerve (1042)	S100, SOX10, PGP9.5
+ganglion (1043)	peripherin, MAP-2
+nerve (1044)	S100, SOX10, PGP9.5
+ganglion (1045)	peripherin, MAP-2
+nerve (1046)	S100, SOX10, PGP9.5
+ganglion (1047)	peripherin, MAP-2
+interstitial cell of Cajal (1048)	CD117, CD34
+muscle (1049)	aSMA, smoothelin
+fibroblast (1050)	Col6A1, Col6A2
+nerve (1051)	S100, SOX10, PGP9.5
+arteriole endothelium (1052)	CD31, CD34, CD36
+venule endothelium (1053)	CD31, CD34, CD36
+lymphatic endothelium (1054)	CD31, podoplanin
+pericyte (1055)	PDGFRB
+interstitial cell of Cajal (1056)	CD117, CD34
+ganglion (1057)	peripherin, MAP-2
+nerve (1058)	S100, SOX10, PGP9.5
+fibroblast (1059)	Col6A1, Col6A2
+arteriole endothelium (1060)	CD31, CD34, CD36
+venule endothelium (1061)	CD31, CD34, CD36
+lymphatic endothelium (1062)	PDL1, CD56, PGP9.5
+pericyte (1063)	PDGFRB
+muscle (1064)	aSMA, smoothelin
+fibroblast (1065)	Col6A1, Col6A2
+nerve (1066)	S100, SOX10, PGP9.5
+arteriole endothelium (1067)	CD31, CD34, CD36
+venule endothelium (1068)	CD31, CD34, CD36
+lymphatic endothelium (1069)	CD31, podoplanin
+pericyte (1070)	CD31
+fibroblast (1071)	Col6A1, Col6A2
+nerve (1072)	S100, SOX10, PGP9.5
+arteriole endothelium (1073)	CD31, CD34, CD36
+venule endothelium (1074)	CD31, CD34, CD36
+lymphatic endothelium (1075)	CD31, podoplanin
+adipocyte (1076)	S100
+pericyte (1077)	PDGFRB
+mesothelial cell (1078)	keratin 8, keratin 18, calretinin
+absorptive (1079)	keratin 20, BEST4
+goblet (1080)	keratin 20, MUC2
+epithelial stem cell (1081)	RGMB, SOX9, CD44, Lgr5, LRIG1, SMOC2
+Paneth (1082)	defensin alpha 5
+neuroendocrine (1083)	chromogranin A, synaptophysin, INSM1, INSL5
+absorptive (1084)	keratin 20, BEST4
+goblet (1085)	keratin 20, MUC2
+transient amplifying cell (1086)	keratin 20
+tuft cell (1087)	keratin 20, DCLK1, TRPM5, POU2F3, PTGS1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (1088)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (1089)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (1090)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (1091)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (1092)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (1093)	CD11b, CD294
+subepithelial membrane (1094)	aSMA
+pericryptal fibroblastic sheath (1095)	aSMA
+capillary endothelium (1096)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (1097)	PECAM1/CD31, podoplanin
+pericyte (1098)	PDGFRB
+myofibroblast (1099)	aSMA
+fibroblast (1100)	Col6A1, Col6A2
+nerve/schwann cell (1101)	S100, CD56, PGP9.5
+ganglion (1102)	peripherin, MAP-2
+neuroendocrine cell (1103)	chromogranin A, synaptophysin, INSM1
+M cell (1104)
+B cell (1105)	CD21, CD19, CD20, CD79a
+CD4+ T cell (1106)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (1107)	CD4, FOXP3, CD25
+CD8+ T cell (1108)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (1109)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (1110)	CD56, CD57, CD11c, NKG2D
+ILF lymphatic endothelium (1111)	LYVE-1
+ILV high endothelial venule endothelium (1112)	MADCAM1
+B cell (1113)	CD21, CD19, CD20, CD79a
+plasma cell (1114)	CD138
+CD4+ T cell (1115)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+regulatory CD4+ T cell (1116)	CD4, FOXP3, CD25
+CD8+ T cell (1117)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (1118)	HLA-DR, CD163, CD206, CD11b, CD68
+eosinophil (1119)	CD11b, CD294
+mast cell (1120)	CD117, MCT
+neutrophil (normally intravascular only) (1121)	CD15, CD16
+NK cell (1122)	CD56, CD57, CD11c, NKG2D
+dendritic cell (1123)	HLA-DR, CD11c, CD123
+innate lymphoid cell (1124)	CD127, CD117, CD161
+fibroblast (1125)	Col6A1, Col6A2
+nerve (1126)	PDL1, CD56, PGP9.5
+capillary endothelium (1127)	CD31, CD34, CD36
+lymphatic endothelium (1128)	CD31, podoplanin
+pericyte (1129)	PDGFRB
+adipocyte (1130)	S100
+fibroblast (1131)	Col6A1, Col6A2
+nerve (1132)	S100, SOX10, PGP9.5
+arteriole endothelium (1133)	CD31, CD34, CD36
+venule endothelium (1134)	CD31, CD34, CD36
+lymphatic endothelium (1135)	CD31, podoplanin
+pericyte (1136)	PDGFRB
+CD4+ T cell (1137)	CD3, CD7, CD2, CD5, CD4
+regulatory CD4+ T cell (1138)	CD4, FOXP3, CD25
+CD8+ T cell (1139)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+macrophage (1140)	HLA-DR, CD163, CD206, CD11b, CD68
+NK cell (1141)	CD56, CD57, CD11c, NKG2D
+dendritic cell (1142)	HLA-DR, CD11c, CD123
+ILF lymphatic endothelium (1143)	LYVE-1
+ILV high endothelial venule endothelium (1144)	MADCAM1
+pericyte (1145)	PDGFRB
+M cell (1146)
+B cell (1147)	CD21, CD19, CD20, CD79a
+nerve (1148)	S100, SOX10, PGP9.5
+ganglion (1149)	peripherin, MAP-2
+nerve (1150)	S100, SOX10, PGP9.5
+ganglion (1151)	peripherin, MAP-2
+nerve (1152)	S100, SOX10, PGP9.5
+ganglion (1153)	peripherin, MAP-2
+interstitial cell of Cajal (1154)	CD117, CD34
+muscle (1155)	aSMA, smoothelin
+fibroblast (1156)	Col6A1, Col6A2
+nerve (1157)	S100, SOX10, PGP9.5
+arteriole endothelium (1158)	CD31, CD34, CD36
+venule endothelium (1159)	CD31, CD34, CD36
+lymphatic endothelium (1160)	CD31, podoplanin
+pericyte (1161)	PDGFRB
+interstitial cell of Cajal (1162)	CD117, CD34
+ganglion (1163)	peripherin, MAP-2
+nerve (1164)	S100, SOX10, PGP9.5
+fibroblast (1165)	Col6A1, Col6A2
+arteriole endothelium (1166)	CD31, CD34, CD36
+venule endothelium (1167)	CD31, CD34, CD36
+lymphatic endothelium (1168)	PDL1, CD56, PGP9.5
+pericyte (1169)	PDGFRB
+muscle (1170)	aSMA, smoothelin
+fibroblast (1171)	Col6A1, Col6A2
+nerve (1172)	S100, SOX10, PGP9.5
+arteriole endothelium (1173)	CD31, CD34, CD36
+venule endothelium (1174)	CD31, CD34, CD36
+lymphatic endothelium (1175)	CD31, podoplanin
+pericyte (1176)	CD31
+fibroblast (1177)	Col6A1, Col6A2
+nerve (1178)	S100, SOX10, PGP9.5
+arteriole endothelium (1179)	CD31, CD34, CD36
+venule endothelium (1180)	CD31, CD34, CD36
+lymphatic endothelium (1181)	CD31, podoplanin
+adipocyte (1182)	S100
+pericyte (1183)	PDGFRB
+transitional (1184)	keratin 7, keratin 19
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (1185)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (1186)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (1187)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (1188)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (1189)	CD3, CD7, CD2, CD5, CD3-TCR
+eosinophil (1190)	CD11b, CD294
+subepithelial membrane (1191)	aSMA
+capillary endothelium (1192)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (1193)	PECAM1/CD31, podoplanin
+pericyte (1194)	PDGFRB
+myofibroblast (1195)	aSMA
+fibroblast (1196)	Col6A1, Col6A2
+nerve/schwann cell (1197)	S100, CD56, PGP9.5
+ganglion (1198)	peripherin, MAP-2
+columnar (1199)	keratin 7
+transitional (1200)	keratin 7, keratin 19
+squamous (1201)	keratin 5/6, p60
+adipocyte (1202)	S100
+fibroblast (1203)	Col6A1, Col6A2
+nerve (1204)	S100, SOX10, PGP9.5
+arteriole endothelium (1205)	CD31, CD34, CD36
+venule endothelium (1206)	CD31, CD34, CD36
+lymphatic endothelium (1207)	CD31, podoplanin
+pericyte (1208)	PDGFRB
+nerve (1209)	S100, SOX10, PGP9.5
+ganglion (1210)	peripherin, MAP-2
+nerve (1211)	S100, SOX10, PGP9.5
+ganglion (1212)	peripherin, MAP-2
+nerve (1213)	S100, SOX10, PGP9.5
+ganglion (1214)	peripherin, MAP-2
+interstitial cell of Cajal (1215)	CD117, CD34
+muscle (1216)	aSMA, smoothelin
+fibroblast (1217)	Col6A1, Col6A2
+nerve (1218)	S100, SOX10, PGP9.5
+arteriole endothelium (1219)	CD31, CD34, CD36
+venule endothelium (1220)	CD31, CD34, CD36
+lymphatic endothelium (1221)	CD31, podoplanin
+pericyte (1222)	PDGFRB
+interstitial cell of Cajal (1223)	CD117, CD34
+ganglion (1224)	peripherin, MAP-2
+nerve (1225)	S100, SOX10, PGP9.5
+fibroblast (1226)	Col6A1, Col6A2
+arteriole endothelium (1227)	CD31, CD34, CD36
+venule endothelium (1228)	CD31, CD34, CD36
+lymphatic endothelium (1229)	PDL1, CD56, PGP9.5
+pericyte (1230)	PDGFRB
+muscle (1231)	aSMA, smoothelin
+fibroblast (1232)	Col6A1, Col6A2
+nerve (1233)	S100, SOX10, PGP9.5
+arteriole endothelium (1234)	CD31, CD34, CD36
+venule endothelium (1235)	CD31, CD34, CD36
+lymphatic endothelium (1236)	CD31, podoplanin
+pericyte (1237)	CD31
+fibroblast (1238)	Col6A1, Col6A2
+nerve (1239)	S100, SOX10, PGP9.5
+arteriole endothelium (1240)	CD31, CD34, CD36
+venule endothelium (1241)	CD31, CD34, CD36
+lymphatic endothelium (1242)	CD31, podoplanin
+adipocyte (1243)	S100
+pericyte (1244)	PDGFRB
+squamous (1245)	keratin 5/6, p60
+langerhans cells (1246)	CD1a, langerin
+melanocyte (1247)	S100, melanA, SOX10
+Merkel (1248)	keratin 20, chromogranin A, synaptophysin
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte (1249)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ lymphocyte gamma/delta (1250)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte (1251)	CD3, CD7, CD2, CD5, CD3-TCR, CD8
+surface intraepithelial CD4+ lymphocyte (1252)	CD3, CD7, CD2, CD5, CD3-TCR, CD4
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta (1253)	CD3, CD7, CD2, CD5, CD3-TCR
+subepithelial membrane (1254)	aSMA
+capillary endothelium (1255)	PECAM1/CD31, CD34, CD36
+lymphatic endothelium (1256)	PECAM1/CD31, podoplanin
+pericyte (1257)	PDGFRB
+myofibroblast (1258)	aSMA
+fibroblast (1259)	Col6A1, Col6A2
+nerve/schwann cell (1260)	S100, CD56, PGP9.5
+ganglion (1261)	peripherin, MAP-2
+adipocyte (1262)	S100
+fibroblast (1263)	Col6A1, Col6A2
+nerve (1264)	S100, SOX10, PGP9.5
+arteriole endothelium (1265)	CD31, CD34, CD36
+venule endothelium (1266)	CD31, CD34, CD36
+lymphatic endothelium (1267)	CD31, podoplanin
+pericyte (1268)	PDGFRB
+nerve (1269)	S100, SOX10, PGP9.5
+ganglion (1270)	peripherin, MAP-2
+nerve (1271)	S100, SOX10, PGP9.5
+ganglion (1272)	peripherin, MAP-2
+nerve (1273)	S100, SOX10, PGP9.5
+ganglion (1274)	peripherin, MAP-2
+interstitial cell of Cajal (1275)	CD117, CD34
+muscle (1276)	aSMA, smoothelin
+fibroblast (1277)	Col6A1, Col6A2
+nerve (1278)	S100, SOX10, PGP9.5
+arteriole endothelium (1279)	CD31, CD34, CD36
+venule endothelium (1280)	CD31, CD34, CD36
+lymphatic endothelium (1281)	CD31, podoplanin
+pericyte (1282)	PDGFRB
+interstitial cell of Cajal (1283)	CD117, CD34
+ganglion (1284)	peripherin, MAP-2
+nerve (1285)	S100, SOX10, PGP9.5
+fibroblast (1286)	Col6A1, Col6A2
+arteriole endothelium (1287)	CD31, CD34, CD36
+venule endothelium (1288)	CD31, CD34, CD36
+lymphatic endothelium (1289)	PDL1, CD56, PGP9.5
+pericyte (1290)	PDGFRB
+muscle (1291)	aSMA, smoothelin
+fibroblast (1292)	Col6A1, Col6A2
+nerve (1293)	S100, SOX10, PGP9.5
+arteriole endothelium (1294)	CD31, CD34, CD36
+venule endothelium (1295)	CD31, CD34, CD36
+lymphatic endothelium (1296)	CD31, podoplanin
+pericyte (1297)	CD31
+fibroblast (1298)	Col6A1, Col6A2
+nerve (1299)	S100, SOX10, PGP9.5
+arteriole endothelium (1300)	CD31, CD34, CD36
+venule endothelium (1301)	CD31, CD34, CD36
+lymphatic endothelium (1302)	CD31, podoplanin
+adipocyte (1303)	S100
+pericyte (1304)	PDGFRB
+keratinocyte (1305)	keratin 5/6, p60
+langerhans (1306)	CD1a, langerin
+Merkel (1307)	keratin 20, chromogranin A, synaptophysin
+melanocyte (1308)	S100, melanA, SOX10
+keratinocyte (1309)	keratin 5/6, p60
+sebocyte (1310)	keratin 7
+eccrine (1311)	keratin 7, keratin 19
+myoepithelial (1312)	aSMA
+apocrine (1313)	keratin 7, keratin 19
+myoepithelial (1314)	aSMA
+fibroblast (1315)	Col6A1, Col6A2
+mast cell (1316)	CD117, MCT
+dendritic cell (1317)	integrin subunit alpha E/CD103, integrin subunit alpha M/CD11b
+macrophage (1318)	HLA-DR, CD163, CD206, CD11b, CD68
+T helper (1319)	CD3, CD4
+T killer (1320)	CD3, CD8
+T reg (1321)	CD3, CD4, FOXP3
+B cell (1322)	CD19, CD79a
+eosinophil (1323)	CD11b, CD294
+schwann cell (1324)	S100 calcium binding protein A2
+perineurial cell (1325)	CD34
+arteriole endothelial cell (1326)	CD31, CD34, CD36
+perivascular smooth muscle cell (1327)	aSMA
+glomus cell (1328)	actin alpha 2, smooth muscle, dopamine receptor D2
+pericyte (1329)	CD31
+lymphatic endothelium (1330)	CD31, podoplanin
+venous endothelium (1331)	CD31, CD34, CD36
+adipocyte (1332)	S100
+fibroblast (1333)	Col6A1, Col6A2
+mast cell (1334)	CD117, MCT
+dendritic cell (1335)	integrin subunit alpha E/CD103, integrin subunit alpha M/CD11b
+macrophage (1336)	CD3, CD4
+T helper (1337)	CD3, CD8
+T killer (1338)	CD3, CD4, FOXP3
+T reg (1339)	CD19, CD79a
+B cell (1340)	CD11b, CD294
+eosinophil (1341)	CD11b, CD294
+schwann cell (1342)	S100 calcium binding protein A2
+perineurial cell (1343)	CD34
+arteriole endothelial cell (1344)	CD31, CD34, CD36
+perivascular smooth muscle cell (1345)	aSMA
+glomus cell (1346)	actin alpha 2, smooth muscle, dopamine receptor D2
+pericyte (1347)	CD31
+lymphatic endothelium (1348)	CD31, podoplanin
+venous endothelium (1349)	CD31, CD34, CD36
+skeletal muscle (1350)	desmin

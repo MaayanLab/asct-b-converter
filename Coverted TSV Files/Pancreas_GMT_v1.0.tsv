@@ -1,0 +1,32 @@
+Acinar cell (0)	PNLIP, KRT18, KRT8
+Smooth muscle cell (1)	ACTA2
+Simple columnar epithelial cell (2)	CFTR, KRT19, KRT7
+Simple columnar epithelial cell (3)
+Low columnar epithelial cell (4)
+Low columnar epithelial cell (5)
+Nonmucinous cuboidal epithelial cell (6)
+Flat epithelial cells (7)	CA2
+Pancreatic goblet cell (8)	MUC2
+Tuft cell (9)	AVIL, HPGDS
+Enterochromaffin cell? (10)	TPH1, CHGA, SYP
+Smooth muscle cell (11)	ACTA2
+Tall columnar epithelial cell (12)
+B lymphocyte (13)	CD20, CD19, CD45
+T lymphocyte (14)	CD3, CD8, CD4, CD45
+Macrophage (15)	CD68, IBA1, CD163, CD206
+Dendritic cell (16)	CD11c
+Alpha cell (17)	GCG, CHGA, SYP, PGP9.5, ARX
+Beta cell (18)	INS, CHGA, SYP, PGP9.5, ENTPD3
+Delta cell (19)	SST, CHGA, SYP, PGP9.5
+PP cell (20)	PPY, CHGA, SYP, PGP9.5
+Epsilon cell (21)	GHRL, CHGA, SYP, PGP9.5
+Gastrin cell (22)	GAST
+B lymphocyte (23)	CD20, CD19, CD45
+T lymphocyte (24)	CD3, CD8, CD4, CD45
+Macrophage (25)	CD68, IBA1, CD163, CD206
+Dendritic cell (26)	CD11c
+Activated stellate cell (27)	ACTA2, LAMA2
+Quiescent stellate cell (28)	PDGFRB
+Adipocyte (29)	Leptin, HOXC8, HOXC9
+[] (30)	Laminin, COL4A1
+[] (31)	Fibronectin

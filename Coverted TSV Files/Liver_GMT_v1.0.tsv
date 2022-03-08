@@ -1,0 +1,32 @@
+liver sinusoid endothelial cell (0)	CD31 Low
+Kupffer cell (1)	CD68
+quiescent hepatic stellate cell (2)	PDGFRB
+Immune cell (3)
+hepatocyte (4)
+periportal hepatocyte (5)	Histidine ammonia-lyase, Cytochrome P450 family 2 subfamily A member 7 (CYP2A7)
+pericentral hepatocyte (6)	Glutamine Synthase, Cytochrome P450 3A4
+mid zone hepatocyte (7)	Histidine ammonia-lyase, Cytochrome P450 family 2 subfamily A member 7 (CYP2A7)Glutamine Synthase, Cytochrome P450 3A4. BUT THE RELATION WILL BE " LACKS" INSTEAD OF "HAS PART"
+endothelial cell (8)	CD31
+cuboidal cell (Small cholangiocytes are cuboidal) (9)	Keratin-19, keratin-7
+columnar cell ( larger cholangiocytes are more columnar) has ciliae (10)	CFTR
+endothelial cell (11)
+neuron cell (12)	TUBB3
+endothelial cell (13)	CD31, CD34
+smooth muscle cell (14)	smooth muscle actin
+portal fibroblast (15)	CTGF
+hepatic oval cell (16)	oval-6, Thy-1, CD117
+hepatic oval cell (17)	Lgr5, Prom1, OPN1, Sox9
+hepatic lymphatic endothelial cell (18)
+conventional Dendritic cell (20)
+Conventional DC 1 (21)
+Conventional DC 2 (22)
+plasmacytoid Dendritic cell (23)
+CD8 TRm (residence memory) (24)	HOBIT, BLIMP1
+CD4+T cell (25)
+gamma delta T cell (26)
+CD8+ Liver-Resident Memory T cell (27)
+iNKT (28)
+Eomes low Liver NK cell (29)	T-bet hi Eomes lo
+TBet low Liver NK cell (30)	T-bet lo Eomes hi
+NK (31)	T-bet+ Eomes hi
+Pit cell (32)	CD49a+ T-bet+Eomes‚Äì
