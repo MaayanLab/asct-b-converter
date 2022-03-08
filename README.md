@@ -18,7 +18,7 @@ Table of Contents
 ## Overview
 Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested part_of structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types (e.g., gene, protein, lipid or metabolic markers). The tables are authored and reviewed by an international team of anatomists, pathologists, physicians, and other experts.
 
-![cover](./weatherized.png)
+![cover](./HubMAP.png)
 
 ## Usage
 - Clone the repository
