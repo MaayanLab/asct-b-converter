@@ -1,6 +1,4 @@
-# ASCT+B-converter
-
-The Impact of Weatherization on Microbial Ecology and Human Health
+ASCT+B-converter
 =================================================
 
 ## Introduction 
