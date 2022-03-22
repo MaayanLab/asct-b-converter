@@ -3,7 +3,7 @@ ASCT+B-converter
 
 ## Introduction 
 
-This repository contains a jupyter script that given a ASCT+B Table will processs the table and generate a text (tsv) file where the first column is the cell type and the following columns are the gene markers. Proteins markers will be added soon. 
+This repository contains a jupyter script that given a ASCT+B Table will processs the table and generate a text (tsv) file where the first column is the cell type and the following columns are a set of protein and gene markers.
 
 Table of Contents 
 -----------------
