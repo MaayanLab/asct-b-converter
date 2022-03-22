@@ -1,0 +1,67 @@
+absorptive:Large Intestine	keratin 20;BEST4
+goblet:Large Intestine	MUC2;keratin 20
+epithelial stem cell:Large Intestine	RGMB;Lgr5;SOX9;SMOC2;LRIG1;CD44
+Paneth:Large Intestine	defensin alpha 5;DEFA5;DFA5
+neuroendocrine:Large Intestine	INSM1;chromogranin A;INSL5;synaptophysin
+transient amplifying cell:Large Intestine	keratin 20
+tuft cell:Large Intestine	POU2F3;PTGS1;keratin 20;TRPM5;DCLK1
+surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte:Large Intestine	CD3-TCR;CD3;CD2;CD7;CD5;CD8;TCR alpha/beta
+surface intraepithelial CD8+ lymphocyte gamma/delta:Large Intestine	CD3-TCR;CD3;CD2;CD7;CD5;CD8;TCR gamma/delta
+surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte:Large Intestine	CD3-TCR;CD3;CD2;CD7;CD5;CD8;TCR alpha/beta
+surface intraepithelial CD4+ lymphocyte:Large Intestine	CD3-TCR;CD3;CD2;CD7;CD5;CD4;TCR alpha/beta
+surface intraepithelial CD4-CD8- lymphocyte alpha/beta:Large Intestine	CD3-TCR;CD3;CD2;CD7;CD5;TCR alpha/beta
+eosinophil:Large Intestine	CD294;CD11b
+subepithelial membrane:Large Intestine	aSMA
+pericryptal fibroblastic sheath:Large Intestine	WNT2B;RSPO3;aSMA
+capillary endothelium:Large Intestine	CD34;CD31;CD36;PECAM1/CD31
+lymphatic endothelium:Large Intestine	podoplanin;CD31;PGP9.5;PDL1;CD56;PECAM1/CD31
+pericyte:Large Intestine	CD31;PDGFRB
+myofibroblast:Large Intestine	aSMA
+fibroblast:Large Intestine	Col6A2;Col6A1
+nerve/schwann cell:Large Intestine	PGP9.5;S100;CD274/PDL1;CD56
+ganglion:Large Intestine	MAP-2;peripherin
+neuroendocrine cell:Large Intestine	INSM1;chromogranin A;synaptophysin
+M cell:Large Intestine	sialyl lewis a antigen
+B cell:Large Intestine	CD294;CD20;CD19;CD79a;CD11b;CD21
+CD4+ T cell:Large Intestine	CD3-TCR;CD3;CD2;CD7;CD5;CD4;TCR alpha/beta
+regulatory CD4+ T cell:Large Intestine	CD4;FOXP3;CD25
+CD8+ T cell:Large Intestine	CD3-TCR;CD3;CD2;CD7;CD5;CD8;TCR alpha/beta
+macrophage:Large Intestine	CD11B;CD68;CD3;CD206;HLA-DR;CD4;CD11b;CD163
+NK cell:Large Intestine	CD57;NKG2D;CD11c;CD56
+ILF lymphatic endothelium:Large Intestine	LYVE-1
+ILV high endothelial venule endothelium:Large Intestine	MADCAM1
+plasma cell:Large Intestine	CD138
+mast cell:Large Intestine	MCT;CD117
+neutrophil (normally intravascular only):Large Intestine	CD15;CD16
+dendritic cell:Large Intestine	integrin subunit alpha M/CD11b;integrin subunit alpha E/CD103;HLA-DR;CD11c;CD123
+innate lymphoid cell:Large Intestine	CD127;CD161;CD117
+nerve:Large Intestine	S100;PGP9.5;SOX10;PDL1;CD56
+adipocyte:Large Intestine	S100
+arteriole endothelium:Large Intestine	CD34;CD31;CD36
+venule endothelium:Large Intestine	CD34;CD31;CD36
+interstitial cell of Cajal:Large Intestine	CD34;CD117
+muscle:Large Intestine	smoothelin;aSMA
+mesothelial cell:Large Intestine	keratin 18;calretinin;keratin 8
+smooth muscle:Large Intestine	aSMA
+transitional:Large Intestine	keratin 19;keratin 7
+columnar:Large Intestine	keratin 7
+squamous:Large Intestine	keratin 19;keratin 5/6;keratin 7;p60
+langerhans cells:Large Intestine	langerin;CD1a
+melanocyte:Large Intestine	S100;melanA;SOX10
+Merkel:Large Intestine	chromogranin A;keratin 20;synaptophysin
+keratinocyte:Large Intestine	keratin 5/6;p60
+langerhans:Large Intestine	langerin;CD1a
+sebocyte:Large Intestine	keratin 7
+eccrine:Large Intestine	keratin 19;keratin 7
+myoepithelial:Large Intestine	aSMA
+apocrine:Large Intestine	keratin 19;keratin 7
+T helper:Large Intestine	CD3;CD4;CD8
+T killer:Large Intestine	CD3;CD4;FOXP3;CD8
+T reg:Large Intestine	FOXP3;CD3;CD19;CD79a;CD4
+schwann cell:Large Intestine	S100 calcium binding protein A2
+perineurial cell:Large Intestine	CD34
+arteriole endothelial cell:Large Intestine	CD34;CD31;CD36
+perivascular smooth muscle cell:Large Intestine	aSMA
+glomus cell:Large Intestine	dopamine receptor D2;actin alpha 2, smooth muscle
+venous endothelium:Large Intestine	CD34;CD31;CD36
+skeletal muscle:Large Intestine	desmin

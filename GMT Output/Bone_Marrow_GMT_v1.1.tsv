@@ -1,0 +1,45 @@
+precursor B cell (pre B cell):Bone Marrow	IGHM;CD19;IGHD;PAX5
+immature B cell:Bone Marrow	MS4A1;IGHM;CD19;PAX5
+memory B cell:Bone Marrow	SELL;IGHA1;MS4A1;CD27;CD19;IGHG1;CD82
+naive B cell:Bone Marrow	IGHM;FCER2;MS4A1;CD19;PAX5;CD40
+plasma cell:Bone Marrow	MZB1;SEC11C;IGKC;IGHA1;DERL3;TNFRSF17;IGHG1;SDC1
+pro B progenitor:Bone Marrow	VPREB1;DNTT;RAG1;MME
+transitional B cell:Bone Marrow	FCRLA;SOX4;CD24;TCL1A;IGLL5;BCL7A
+dendritic cell type 1 (DC1):Bone Marrow	XCR1;CLEC9A;CADM1
+dendritic cell type 2 (DC2):Bone Marrow	CLEC10A;FCGR2B;CD1C;HLA-DQA2;HLA-DPB1;FCER1A
+dendritic cell type 3 (DC3):Bone Marrow	S100A9;CLEC10A;CD1C;CD163;S100A8;FCER1A;CD36
+Plasmacytoid Dendritic Cell (pDC):Bone Marrow	GZMB;JCHAIN;SERPINF1
+transitionalDendritic Cell (tDC):Bone Marrow	AXL;CD22;SIGLEC6
+early erythroid:Bone Marrow	KCNH2;KLF1;MYC;APOC1;PRSS57;GATA1;CD36;EPCAM
+mid erythroid:Bone Marrow	KLF1;TSPO2;SPTA1;RHCE;CD36;RHAG
+late erythroid:Bone Marrow	HBA2;BPGM;HBG1;DCAF12;ADIPOR1,;HBB;ALAS2
+Megakaryocyte (MK):Bone Marrow	PPBP;CAVIN2;LAT;GP9;PF4;CLEC1B;ITGA2B
+early Megakaryocyte (MK):Bone Marrow	PLEK;PDLIM1;SDPR;GATA2;FCER1A
+megakaryocyte-erythroid-mast cell progenitor (MEMP):Bone Marrow	IL1B;CTNNBL1;CD34;PRSS57;TESPA1;SPINK2;GATA2;GATA1
+common lymphoid progenitor (CLP):Bone Marrow	UMODL1;CYGB;PRDX1;CD200;LAT2;ADA
+common myeloid progenitor (CMP):Bone Marrow	CYTL1;SERPINB1;MEST;HPGDS;GATA2
+granulocyte-macrophage progenitor cell (GMP):Bone Marrow	CLEC11A;CD34;AZU1;MPO;CALR
+hemopoietic stem cell (HSC):Bone Marrow	BEX1;CD34;HLF;NPR3;AVP. CRHBP;PROM1
+lympho-myeloid progenitor cell (LMPP):Bone Marrow	SOX4;CD34;JCHAIN;IL2RG;BCL11A;SYK
+multipotent progenitor cell (MPP):Bone Marrow	FLT3;CD34;SPINK2
+CD14 monocyte:Bone Marrow	CD14;S100A9;VCAN;FCN;S100A8;CST3
+CD16 monocyte:Bone Marrow	HES4;FCGR3A;LST1;CXCL16;MS4A7;IFITM3
+promonocyte:Bone Marrow	CX3CR1;S100A4;CCR2;S100A6;CST3;HLA-DRA
+Myeloid progenitor (MOP):Bone Marrow	CEBPB;IRF8;SPI1;KLF4
+myelocyte:Bone Marrow	LCN2;CAMP;LTF;STOM;CEACAM8
+neutrophil:Bone Marrow	S100A12;FCN1;PGLYRP1;ITGAM;MMP9;ORM1
+promyelocyte:Bone Marrow	CTSG;PRTN3;AZU1;ELANE;MPO
+eosinophil:Bone Marrow	HDC;GATA2;MS4A3;HPGDS;CPA3;IL5RA;CLC
+basophil:Bone Marrow	HDC;GATA2;MS4A3;IL3RA;CPA3;IL5RA;CLC
+mast cell:Bone Marrow	KIT;HDC;GATA2;MS4A3;TPSAB1;HPGDS;CPA3;IL5RA;CLC
+CD4 na√Øve:Bone Marrow	TRBC1;CD3D;LTB;TRAC;AQP3;CD40LG;TRAT1;IL7R
+CD4 T cell memory:Bone Marrow	PSAT1;ANXA2;WARS;PDZD8;IFI6;CD3D;CRIP1;TRAC;STAT1;ODC1;PYCR1;IL2;NME1;SOCS1;IL4R;LGALS3;TNF;MAL
+CD4 T cell effector memory CD45RA:Bone Marrow	PSAT1;WARS;CD3D;STAT1;TRAC;ODC1;PYCR1;IL2;NME1;SOCS1;IL4R;TNF;MAL
+CD8 na√Øve:Bone Marrow	TRAC;IL7R;CD3D;AQP3
+CD8 T cell memory:Bone Marrow	GZMB;CRIP1;PDZD8;CXCR6;ITGA1;PRF1
+CD8 T cell effector memory:Bone Marrow	GZMB;HOPX;CD3D;TRAC;CCL3;CCL4
+CD8 T cell effector memory CD45RA:Bone Marrow	GNLY;HOPX;CD3D;TRAC;IFIT3;NKG7;CCL5;KLRD1;PRF1
+mature CD8 T cell:Bone Marrow	GZMK;IL32;DUSP2;GZMH;CCL5;TRGC2;CD8A;KLRG1
+CD56 bright Natural Killer:Bone Marrow	GZMK;CLIC3;CST7;XCL1;KLRB1;TRDC
+mature Natural killer:Bone Marrow	GZMB;CLIC3;FCGR3A;CST7;KLRB1;TRDC;PRF1;GZMA
+T regulatory:Bone Marrow	CCR6;LTB;TRBC1;FOXP3;TRAC;TNFRSF25;TIGIT;AQP3;TRAT1;IL7R;TNFRSF4

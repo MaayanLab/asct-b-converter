@@ -1,0 +1,19 @@
+Endothelial cell:Fallopian Tube	CLDN5
+Fibroblast:Fallopian Tube	DCN5
+fibroblast-mesenchymal cell:Fallopian Tube	CD105;CD73
+macrophage:Fallopian Tube	CD163;LYZ
+CD8+ T-cells:Fallopian Tube	CD3E
+Natural killer cell:Fallopian Tube	KLRC1;CD56
+CD4+ T-cell:Fallopian Tube	CD3E
+Langerhans cell:Fallopian Tube	CD207
+monocyte:Fallopian Tube	LYZ
+dendritic cell:Fallopian Tube	CD11C;LYZ
+mast cell:Fallopian Tube	TPSB1
+B cell:Fallopian Tube	CD79A
+plasma cell:Fallopian Tube	JCHAIN
+neutrophils:Fallopian Tube	HLA-DR;VEGF;CD64
+ciliated epithelial cell:Fallopian Tube	FOXJ1+
+secretory epithelial cell:Fallopian Tube	PAX8;OVGP1
+intercalary of Fallopian tube isthmus:Fallopian Tube	ITGA6;CD44;EPCAM
+intercalary of Fallopian tube ampulla:Fallopian Tube	ITGA6;CD44;EPCAM
+neutrophil:Fallopian Tube	HLA-DR;VEGF;CD64

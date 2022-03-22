@@ -1,0 +1,27 @@
+liver sinusoid endothelial cell:Liver	CD31 Low;CD105;CD34-/CD31 low/CD105+;CD31
+Kupffer cell:Liver	CD68
+quiescent hepatic stellate cell:Liver	desmin;PDGFRb, GFAP, desmin;PDGFRB
+hepatocyte:Liver	Cyp2D6, canalicular CD10, canalicular BSEP, Heppar1 (mAb);BSEP;CD10
+periportal hepatocyte:Liver	Histidine ammonia-lyase, Cytochrome P450 family 2 subfamily A member 7 (CYP2A7)
+pericentral hepatocyte:Liver	Glutamate ammonia ligase , Cytochrome P450 3A4;Glutamine Synthase, Cytochrome P450 3A4
+mid zone hepatocyte:Liver	Histidine ammonia-lyase, Cytochrome P450 family 2 subfamily A member 7 (CYP2A7)Glutamine Synthase, Cytochrome P450 3A4. BUT THE RELATION WILL BE " LACKS" INSTEAD OF "HAS PART"
+endothelial cell:Liver	E-Selectin, CD34, Pal-E antigen, vWF;CD31, CD34;CD31;?;CD34
+cuboidal cell (Small cholangiocytes are cuboidal):Liver	KRT7;Keratin-19, keratin-7
+columnar cell ( larger cholangiocytes are more columnar) has ciliae:Liver	CFTR
+neuron cell:Liver	S100, TRPVA;TUBB3
+smooth muscle cell:Liver	smooth muscle actin
+portal fibroblast:Liver	CTGF;Thy-1
+hepatic oval cell:Liver	Lgr5, Prom1, OPN1, Sox9;oval-6, Thy-1, CD117;EpCam(CD326)
+conventional Dendritic cell:Liver	CSF1R;CD74;CD11c high; MHCII+, FLT3+, F4/80 neg, Csf-1R neg, CD64 neg;HGNC:3765
+Conventional DC 1:Liver	CD141+ (BDCA-3)
+Conventional DC 2:Liver	CD1c (BDCA-1)
+plasmacytoid Dendritic cell:Liver	CD11c Neg
+CD8 TRm (residence memory):Liver	HGNC:1694;CD8, TCRŒ±Œ≤, CD69 and CD103;HOBIT, BLIMP1;TRAC
+CD4+T cell:Liver	CD4, TCRŒ±Œ≤;TRAC
+gamma delta T cell:Liver	Œ≥Œ¥TCR,CD27lo, CD45RAlo subset of VŒ¥1+ T, CD69, CXCR3, and CXCR6
+CD8+ Liver-Resident Memory T cell:Liver	CXCR3 and CXCR6, CCR7, CD62L, KLF2, and S1PR1;HGNC:1608;KLF2;CXCR6
+iNKT:Liver	HGNC:12104;CXCR6;TCRŒ±Œ≤ VŒ±24-JŒ±18 (VŒ≤11),CD1d, CXCR6;TRAJ18
+Eomes low Liver NK cell:Liver	CD49a+ CD56brightCD49a+CD69+CD103+   CXCR6‚àí;NCAM1;CXCR6;HGNC:1694;T-bet hi Eomes lo
+TBet low Liver NK cell:Liver	HGNC:6134;ITGAE;NCAM1;T-bet lo Eomes hi;Eomes hi CD56brightCD49a‚àí CD69+   CD103‚àí CXCR6+
+NK:Liver	NCAM1;HGNC:1694;CD49e‚àí CD56bright CD69+ CXCR6+;T-bet+ Eomes hi
+Pit cell:Liver	CD49a+ T-bet+Eomes‚Äì

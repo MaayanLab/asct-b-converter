@@ -1,0 +1,11 @@
+basal cell of ureter urothelium:Ureter	KRT5;DKK1;S100A2
+intermediate cell of ureter urothelium:Ureter	TP63;KRT13;AKR1C1
+superficial cell of ureter urothelium:Ureter	UPK1A;UPK3A;UPK1B
+detrusor smooth muscle cell of ureter:Ureter	ACTG2;ACTA2;DES
+myofibroblast cell of ureter:Ureter	TNC;MFAP4;STC1
+PI16+ fibroblast cell of ureter:Ureter	MFAP5;DCN;PI16
+DPT+ fibroblast cell of ureter:Ureter	DPT;C7;DCN
+lipofibroblast cell of ureter:Ureter	SLPI;PILRA;APOE
+endothelial cell of ureter:Ureter	PECAM1;SELE;CLDN5
+vascular smooth muscle cell of ureter:Ureter	ACTA2;MCAM;ADRA2A
+pericyte cell of ureter:Ureter	CD36;ACTA2;AVPR1A

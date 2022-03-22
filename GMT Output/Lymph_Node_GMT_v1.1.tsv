@@ -1,0 +1,45 @@
+Myofibroblast:Lymph Node	COL3A1;Elastin+;Smooth Muscle Actin+;COL1A1;Desmin+/-;ACTA2;Vimentin +/-;Collagen I+;Collagen III+
+Blood Vessel Endothelial Cell:Lymph Node	EMCN;Podoplanin-;PVRL2;CD105+;ESAM;ICAM1+;CD144+;CCL14;PLVAP;PNAd;SPARCL1;JAM2;ICAM1;Flt1+;Smooth Actin Muscle+;Endomucin+;Collagen IV+;CD209;CD123+;CD31+;CX40+;CD59+;CD300LG;HLA-DRA;HLA-DRB1;CD74;CD34+;CAV1;HLA-DPA1;PROX-1-;MARCO;CD34;DARC;HLA-DPB1
+Pericyte:Lymph Node	PDGFRalpha+;PDGFRbeta+
+Endothelial Cell of Lymphatic Vessel:Lymph Node	Lyve1-;ACKR4+;MFAP4+;NT5E;ACKR4;NUDT4;CAV1;CD31+;MARCO-;Prox-1+;TNFRSF9-;CD73+;Claudin11-;CD45-;Podoplanin+;CAV1+
+Smooth Muscle Cell:Lymph Node	Smooth Muscle Actin+;ACTA2
+Macrophage:Lymph Node	CD163+;HLA-DRA;CD14+/-;CD4+;CD68+;CD169-;CD169+;CD11c+;DC-SIGN+;CD206+/-;CD209+;CD14+;MARCO+;CD206+;CD4;ITGAX;CD14;CD11b+
+Marginal Reticular Cell:Lymph Node	TNFSF11;CD31-;Smooth Muscle Actin+;ENPP2;Vimentin+;Desmin+;Podoplanin+;CXCL13;CXCL13+
+Lymphatic Endothelial Cell -Subcapsular Sinus Ceiling:Lymph Node	Lyve1-;ACKR4+;MFAP4+;NT5E;ACKR4;NUDT4;CAV1;CD31+;MARCO-;Prox-1+;TNFRSF9-;CD73+;Claudin11-;CD45-;Podoplanin+;CAV1+
+Lymphatic Endothelial Cell-Subcapsular Sinus Floor:Lymph Node	ICAM-1+;ACKR4-;CD9+;Lyve1-;CXCL5;MARCO-;LYZ;PDL1+;TNFRSF9+;CD31+;Prox-1+;MFAP4-;CD73+;CXCL1;CCL20;CD45-;Podoplanin+;CAV1-;TNFRSF9;MARCO;Claudin 11-;THY1;DARC
+Lymphatic Endothelial Cell-Trabeculae:Lymph Node	Lyve-1+;ACKR4+;MFAP4+;NT5E;ACKR4;LYVE1;CD31+;MARCO-;Prox-1+;MFAP4;TNFRSF9-;CD73+;CD45-;Claudin 11-;Podoplanin+;CAV1+
+Follicular Dendritic Cell:Lymph Node	CD32+;FCER2A;CR2;CD21+;ICAM-1+;VCAM1;ICAM-1;MFGE8;Podoplanin+;FCGRB;VCAM-1+;MADCAM1;HLA-DR+;CD35+;CXCL13;CXCL13+;CD23+
+Naive B Cell:Lymph Node	CD38+;CD20+;CD45RA+;FCER2;BCL2+;CD21+;CD27-;SELL;CD1c+;MS4A1;IgD+;IgM+;IGHD;HLA-DRA;HLA-DR+;CD10-;CD19;CD23+
+Memory B Cell:Lymph Node	CD20+;CD27+;CD79a+;CD45RO+;MS4A1;HLA-DRA;HLA-DR+;CD19+;CD19
+Centrocyte:Lymph Node	Mki67;CD38+;CD20+;CD27+;CXCR5+;CD21+;BCL6+;CD10+;MS4A1;IgD-;BCL6;BCL2-;CD83;CD19;Ki67+
+T Follicular Helper Cell:Lymph Node	CXCR5;CD3D;PDCD1;CD4+;CXCR5+;CD3+;MAF;ICOS+;CD57+;CD69+;PD-1+;CD4;CD40L+
+T Follicular Regulatory Cell:Lymph Node	CXCR5;CD3D;CD4+;FOXP3;CD3+;FOXP3+;CD25+;IL2RA;CD4
+Tingible Body Macrophage:Lymph Node	HLA-DRA;CD68+;CD169+;SPARC+;CD4;ITGAX;CD14;CD11b+
+Plasmablast:Lymph Node	CD20-;CD38;CD27+;CD79a+;CD38++;IRF4+;CXCR4+;IRF4;PRDM1;CD138+;SDC1
+Centroblast:Lymph Node	BCL6++;LMO2+;CD10+;IgD-;CD27;AICDA;CD20+;CD27+;BCL6;Ki67++;CXCR4;HLA-DR+;CD19;Mki67;CD19+;CD38+;MS4A1;BCL2-;CXCR4+
+B Cell Zone Reticular Cell:Lymph Node	TNFSF11;CD31-;Smooth Muscle Actin+;CXCL12;CXCL12+;Vimentin+;Desmin+;Podoplanin+
+Naive CD4+ T cell:Lymph Node	CD3D;CD45RA+;CD4+;CD8-;CD3+;CD28+;SELL;CCR7+;CCR7
+Memory CD4+ T cell:Lymph Node	CD3D;CD45RA-;CD4+;CXCR6;CD8-;CD3+;ITGA1
+Th1 cell:Lymph Node	CD3D;CD4+;CCR6-;CD8-;IL7R;CD3+;T-bet+;CCR4-;ID2;CXCR3+
+Th2 cell:Lymph Node	CD3D;CD4+;CRTH2+;CD8-;IL7R;CD3+;CXCR3-;GATA-3+;ID2;CCR4+
+Th17 cell:Lymph Node	CD3D;CD4+;CD8-;IL7R;CD3+;CCR6;CCR6+;CD161+;RORC2+;ID2
+T Regulatory Cell:Lymph Node	CD4+;FOXP3;CD3+;FOXP3+;CD25+;IL2RA;CTLA4
+T Cytotoxic Cell:Lymph Node	CD3D;CD8A;Granzyme B+;Perforin+;CD3+;TIA-1+;CD8+;GZMB;GZMK
+Naive CD8+ T cell:Lymph Node	CD3D;CD8A;CD45RA+;CD28+;CD3+;SELL;CD8+;CD4-;CCR7+;CCR7
+Memory CD8+ T cell:Lymph Node	CD3D;CD45RA-;CD8A;CXCR6;CD3+;ITGA1;CD8+;CD4-
+Natural Killer Cell:Lymph Node	CD94+;KIR-;KLRD1;CD56+;NKG2D+;CD3-;CD16-;CD57-;NKG2A+;CD127+;ID2;CD3e+;CD117+
+T Cell Zone Reticular Cell:Lymph Node	CCL12;CD31-;CCL19;Smooth Muscle Actin+;Vimentin+;Desmin+;CCL21+;CCL19+;CCL21;IL7;Podoplanin+
+Dendritic Cell:Lymph Node	CD80+;CD40+;CD11c+;CD83+;ICAM-1+;S100+;PD-L1+;ITGAX;CD40;HLA-DRA;CD83;HLA-DR+;CD86+
+Conventional Dendritic Cell (cDC2):Lymph Node	CD1C;CD86;SIRPa+;CD11c+;CD1c+;CLEC10A;HLA-DR+
+Lymphatic Endothelial Cell:Lymph Node	Lyve-1+;NT5E;ACKR4-;ICAM1+;TNFRSF9-;Lyve-1-;CAV1+;MFAP4+;ACKR4;LYVE1;MARCO+;NUDT4;MARCO-;CD209+;PDL1+;TNFRSF9+;CD209;ACKR4+;CLEC4M;STAB2+;CD31+;Prox-1+;MFAP4-;CD73+;CD45-;Podoplanin+;CAV1;CD73-;CLEC4G;MARCO;Claudin 11-
+Plasmacytoid Dendritic Cell:Lymph Node	CD45RA+;IL3RA;CD303+;CD11c-;CLEC4C;CD123+;GZMB;TCF4+;IGJ
+Conventional Dendritic Cell (cDC1):Lymph Node	IDO1;CD11c+;CD13+;CLEC9A;XCR1;CADM1;HLA-DR+;BATF3;CD141++
+Gamma/Delta T cells:Lymph Node	CD3D;CD3+;KLRD1;TRDC;TCRgamma/delta+;ID2
+Mast Cell:Lymph Node	Tryptase+;MS4A2;TPSB2;TPSAB1;KIT;CD117+
+Plasma Cell:Lymph Node	CD20-;CD38;CD79a+;CD27+;CD38++;IRF4+;IRF4;PRDM1;CD138+;SDC1
+Monocytoid B Cell:Lymph Node	AID;CD27-;IgM+;AICDA;CD19+;CD19;IGHM
+B Cell:Lymph Node	CD20+;CD79a+;MS4A1;HLA-DRA;CD19+;CD19
+Medullary Reticular Cell:Lymph Node	TNFSF11;CD31-;Smooth Muscle Actin+;CXCL12;CXCL12+;Vimentin+;Desmin+;Podoplanin+
+T Cell:Lymph Node	CD3D;CD8A;CD3+;CD4+/- or CD8+/-;CD4
+Lymphatic Endothelial Cell of Medulla Ceiling:Lymph Node	Lyve-1+;ACKR4+;MFAP4+;NT5E;ACKR4;LYVE1;CD31+;MARCO-;Prox-1+;MFAP4;TNFRSF9-;CD73+;CD45-;Claudin 11-;Podoplanin+;CAV1+
+Sympathetic Neuron:Lymph Node	CD56+;UCHL1;NCAM1;UCHL1+

@@ -1,0 +1,17 @@
+Amniotic Epithelial Cell:Placenta	SOX2;POU5F1;SSEA3
+Fibroblast:Placenta	NT5E;ENG;CD44;THY1
+Extravillous trophoblast:Placenta	HLA-G;MCAM;KRT7
+Endometrial Epithelial Cells:Placenta	SSEA1;CD17;EPCAM;CD19
+Endometrial Stromal Cells (decidua):Placenta	ENG;CD44;THY1;MME
+Endothelial cell:Placenta	RXRA;VWF;ESR2;MCAM;RARA
+Uterine NK Cells:Placenta	ITGA1;NCAM1
+Uterine macrophage:Placenta	MRC1;CD209;CD68;ITGAX
+Regulatory T Cell:Placenta	FOXP3
+Cytotoxic T Cell:Placenta	CD28;CD8A
+B Cell (including plasma cells):Placenta	CD78;SDC1;CD4
+Syncytiotrophoblast:Placenta	CGB3;PSG4;KRT7;CSH1
+Extravillous Trophoblast:Placenta	HLA-G;MCAM;KRT7
+Cytotrophoblast:Placenta	TP63;KRT7;EGFR
+Macrophage (Hofbauer Cells):Placenta	CD163;FCGR1A;CD68
+Placental Stromal Cells:Placenta	NT5E;ENG;CD44;THY1
+Placental Microvascular Endothelial Cells:Placenta	RXRA;VWF;ESR2;MCAM;RARA

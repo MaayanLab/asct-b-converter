@@ -1,0 +1,41 @@
+Keratinocyte (Corneocyte):Skin	filaggrin;Involucrin
+Keratinocyte (Granular):Skin	damage specific DNA binding protein 2;keratin 10;marker of proliferation Ki-67;tumor protein p53
+Langerhans cell:Skin	CD1a molecule;class II major histocompatibility complex transactivator;CD207 molecule
+Keratinocytes (Spinous):Skin	keratin 10;keratin 1
+Merkel cell:Skin	chromogranin A;keratin 20;Keratin 20;synaptophysin
+Keratinocyte (Basal):Skin	keratin 5;keratin 14;marker of proliferation Ki-67;tumor protein p53;damage specific DNA binding protein 2
+Melanocyte:Skin	S100 calcium binding protein A2;SRY-box transcription factor 10;melan-A
+Keratinocyte (Onychocyte):Skin	keratin 17;keratin 10;keratin 5
+keratinocyte stem cell:Skin	CD200 molecule;keratin 15;CD34 molecule
+Germinative (epithelial) cell, Sebocyte:Skin	perilipin 2;Epidermal membrane Antigen
+Eccrine cell, myoepithelial cell:Skin	S100 calcium binding protein A2;keratin 26;keratin 19
+Apocrine cell, myoepithelial cell:Skin	GCDFP-15;Keratin AE1;GATA3
+Myoepithelial cell:Skin	S100 calcium binding protein A2;calponin 1;actin alpha 2, smooth muscle
+Fibroblast:Skin	vimentin;CD34 molecule;Factor XIIIa
+Mast cell:Skin	C-C motif chemokine receptor 3;CD203c;KIT proto-oncogene, receptor tyrosine kinase
+Dendritic cell (DC1):Skin	integrin subunit alpha M/CD11b;integrin subunit alpha E/CD103
+Dendritic cell (DC2):Skin	integrin subunit alpha M/CD11b;integrin subunit alpha E/CD103
+Dendritic cell (monocyte-derived):Skin	integrin subunit alpha M/CD11b;integrin subunit alpha E/CD103
+Dendritic cell (migratory):Skin	integrin subunit alpha M/CD11b;integrin subunit alpha E/CD103
+Macrophage:Skin	CD68 molecule;CD163 molecule
+T helper:Skin	CD3d molecule;CD4 molecule
+T killer:Skin	CD3d molecule;CD8a molecule
+T reg:Skin	forkhead box P3;CD3d molecule;CD4 molecule
+Natural killer cell:Skin	Fc fragment of IgG receptor IIIa/CD16;CD3d molecule;neural cell adhesion molecule 1/CD56
+Natural killer cell / Innate lymphoid cell 1:Skin	T-box transcription factor 21;CD3d molecule;neural cell adhesion molecule 1/CD56
+Innate lymphoid cell 2:Skin	CD3d molecule;neural cell adhesion molecule 1/CD56;GATA binding protein 3
+Innate lymphoid cell 3:Skin	CD3d molecule;neural cell adhesion molecule 1/CD56;RAR related orphan receptor C
+B cell:Skin	CD19 molecule;CD79a molecule;membrane spanning 4-domains A1
+Plasma cell:Skin	CD38 molecule;CD79a molecule;syndecan 1
+Neutrophil:Skin	myeloperoxidase;sialophorin/p43
+Eosinophil:Skin	CD9 molecule;myeloperoxidase
+Neuron:Skin	neurofilament heavy pseudogene 1;CRCP;ubiquitin C-terminal hydrolase L1
+Schwann cell:Skin	S100 calcium binding protein A2;nerve growth factor receptor
+perineurial cells:Skin	CD34 molecule;Epidermal membrane Antigen
+Endothelial cell:Skin	platelet and endothelial cell adhesion molecule 1;ETS transcription factor ERG
+Perivascular smooth muscle cell:Skin	calponin 1;caldesmon 1;actin alpha 2, smooth muscle
+Glomus cell:Skin	dopamine receptor D2;actin alpha 2, smooth muscle
+Pericyte:Skin	melanoma cell adhesion molecule/CD146;platelet derived growth factor receptor beta;actin alpha 2, smooth muscle
+Lymphatic:Skin	podoplanin;lymphatic vessel endothelial hyaluronan receptor 1
+Adipocyte:Skin	calbindin 2/calretinin;S100 calcium binding protein B
+Perineural cell:Skin	CD34 molecule;Epidermal membrane Antigen

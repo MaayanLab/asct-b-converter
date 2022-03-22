@@ -1,0 +1,44 @@
+Paneth cell:Small Intestine	DEFA5;LYZ
+goblet cell:Small Intestine	CLCA4;ITLN1;MUC2;SLC26A2
+tuft cell:Small Intestine	IRF7;SELENBP1;DCLK1
+absorptive:Small Intestine	CA2;SI
+enterocyte:Small Intestine	NEURL1;HES1;BEST4;CA7
+endocrine lineage cell:Small Intestine	CRYBA2
+stem cell:Small Intestine	OLFM4;LGR5;RNF43;ASCL2
+BCHE (butyrylcholinesterase) cell:Small Intestine	CFTR;BEST4;guanylin;uroguanylin
+endothelial:Small Intestine	CD34;CD31;CD36
+lymphatic:Small Intestine	Podoplanin;CD31
+myofibroblast:Small Intestine	CNN1;DES;ACTG2;TP53I3
+fibroblast:Small Intestine	COL6A1;COL6A2
+nerve:Small Intestine	PDL1;CD56;PGP9.5
+M cell:Small Intestine	Cytokeratin 7
+B cell:Small Intestine	CD21;MS4A1;PAX5;MKI67;CD19
+plasma:Small Intestine	CD138;IGLL5
+CD4+ T:Small Intestine	TCRab;CD5;CD2;CD4;CD7;CD3D;CD3
+regulatory CD4+ T:Small Intestine	CD4;FOXP3;CD25
+CD8+ T:Small Intestine	TAGLN;CD8A;TCRab;CD5;CD2;CD8;MGLL;CD7;CD3D;CD3
+macrophage:Small Intestine	CD11b;HLA-DR;CD206;CD14;CD68;CD163
+eosinophil:Small Intestine	CD294;CD11b
+mast cell:Small Intestine	MCT;CD117;HDC
+neutrophil:Small Intestine	CD15;CD16
+natural killer (NK) cell:Small Intestine	CD11c;NKG2D;CD56;CD57
+dendritic cell (DC):Small Intestine	CD11c;CD123;HLA-DR
+innate lyphoid cell (ILC):Small Intestine	CD127;CD117;CD161
+muscle:Small Intestine	aSMA
+mesothelial:Small Intestine	Cytokeratin
+fibroblasts:Small Intestine	Col6A2;COL6A1;Col6A1;COL6A2
+endothelial cells:Small Intestine	NOVA2;SOX17
+epithelial stem cells:Small Intestine	CD44;CD34;SOX9
+Paneth:Small Intestine	alpha Defensin 5a
+endocrine:Small Intestine	Chromogranin;Synaptophysin
+lymphatics:Small Intestine	Podoplanin;CD31
+nerves:Small Intestine	PDL1;CD56;PGP9.5
+macrophages:Small Intestine	CD11b;HLA-DR;CD206;CD68;CD163
+eosinophils:Small Intestine	CD294;CD11b
+mast cells:Small Intestine	MCT;CD117
+neutrophils:Small Intestine	CD15;CD16
+NK cells:Small Intestine	CD11c;NKG2D;CD56;CD57
+DCs:Small Intestine	CD11c;CD123;HLA-DR
+ILCs:Small Intestine	CD127;CD117;CD161
+endoethlial:Small Intestine	CD34;CD31;CD36
+Interstitial cells of Cajal:Small Intestine	CD34;CD117

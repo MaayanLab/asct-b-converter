@@ -1,0 +1,16 @@
+pacemaker cell:Heart	HCN4;Cx45
+endothelial cell:Heart	PECAM1;CDH5;VWF
+smooth muscle cell:Heart	ACTA2;MYH11;TAGLN
+fibroblast:Heart	GSN;DCN;PDGFRA
+cardiomyocyte:Heart	TTN;MYL2;MYL4;FHL2;MYH7;NPPA;MYL7
+macrophage:Heart	C1QA;CD14;FOLR2;CD68
+neuronal:Heart	NRXN1;PLP1;NRXN3
+pericyte:Heart	ABCC9;KCNJ8;RGS5
+telocyte (interstitial like cell of cajal):Heart	CD34;vimentin
+lymphocyte:Heart	CD20;CD3;NKG7;LCK;CD8A
+dendritic cell:Heart	CD205;FOLR2;CD11c;C1QA;CD14;CD103;CD11b
+adipocyte:Heart	FASN;LEP;GPAM
+pacemaker cardiomyocyte:Heart	HCN4;Cx45
+valve interstitial cell:Heart	GSN;PDGFRA
+mesothelial cell:Heart	CRT;AE1/AE3;MSLN;WT1
+Schwann Cell:Heart	SOX10;S100

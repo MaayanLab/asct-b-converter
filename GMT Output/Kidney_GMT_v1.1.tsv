@@ -1,0 +1,63 @@
+capsule mesenchymal stromal cell:Kidney	VSX2;Foxd1
+Parietal Epithelial Cell:Kidney	CFH;CLDN1;VCAM1;CRB2
+Podocyte:Kidney	PODXL;NPHS2;PTPRQ;NPHS1
+Glomerular Capillary Endothelial Cell:Kidney	HECW2;AQP1;PLAT;EHD3;EMCN;FLT1
+Mesangial Cell:Kidney	ROBO1;ITGA8;PDGFRB;SYNPO2;POSTN;PIEZO2
+Proximal Tubule Epithelial Cell:Kidney	ALDOB;GATM;LRP2;SLC13A1;CUBN
+Proximal Tubule Epithelial Cell Segment 1:Kidney	SLC5A2;SLC22A8;PRODH2;SLC5A12;SLC22A6;SLC34A1
+Proximal Tubule Epithelial Cell Segment 2:Kidney	SLC5A11;SLC13A3;SLC22A8;SLC22A6;ACSM2A;SLC34A1
+Proximal Tubule Cell Epithelial Segment 3:Kidney	SLC22A7;AQP1;MOGAT1;SATB2;SLC17A1;SLC5A11
+Descending Thin Limb Cell:Kidney	SPP1;VCAM1;CRYAB;SATB2
+Descending Thin Limb Cell Type 1:Kidney	SATB2;TACSTSD2;SLC14A2;JAG1;CRYAB;CPE;SPP1;ID1
+Descending Thin Limb Cell Type 2:Kidney	AQP1;SLC9A3;SLC39A8;SLC4A11;CRYAB;TACSTD2
+Descending Thin Limb Cell Type 3:Kidney	SLC4A11;SLC14A2;CLDN1;CRYAB;CPE;TACSTD2;HGNC:633;SH3GL3
+Ascending Thin Limb Cell:Kidney	PROX1;CRYAB;TACSTD2;CLCNKA;CLDN3;SH3GL3
+Thick Ascending Limb Cell:Kidney	UMOD;CASR;SLC12A1
+Cortical Thick Ascending Limb Cell:Kidney	UMOD;CLDN16;CASR;TMEM207;SLC12A1
+Medullary Thick Ascending Limb Cell:Kidney	RAP1GAP;UMOD;PROX1;CASR;SLC12A1
+Macula Densa cell:Kidney	NOS1;ROBO2;SLC12A1
+Distal Convoluted Tubule Cell:Kidney	TRPM6;SLC12A3;SALL3;CALB1
+Distal Convoluted Tubule Cell Type 1:Kidney	TRPM6;SLC12A3
+Distal Convoluted Tubule Cell Type 2:Kidney	SLC12A3;HSD11B2;SLC8A1;CALB1;SCNN1G;TRPV5
+Connecting Tubule Cell:Kidney	GATA3;HSD11B2;SLC8A1;CALB1;SCNN1G;TRPV5
+Connecting Tubule Principal Cell:Kidney	AQP3;FXYD4;AQP2;SCNN1G
+Connecting Tubule Intercalated Cell:Kidney	SLC8A1;CA2;ATP6V0D2
+Connecting Tubule Intercalated Cell Type A:Kidney	SLC4A1;SLC26A7;SLC8A1;AQP6
+Connecting Tubule Intercalated Cell Type B:Kidney	SLC4A9;SLC8A1;SLC26A4
+Collecting Duct Cell:Kidney	GATA3
+Collecting Duct Principal Cell:Kidney	GATA3;AQP3;AQP2;SCNN1G;FXYD4
+Cortical Collecting Duct Principal Cell:Kidney	GATA3;AQP3;AQP2;SCNN1G;FXYD4
+Outer Medullary Collecting Duct Principal Cell:Kidney	GATA3;AQP3;AQP2;SCNN1G;FXYD4
+Inner Medullary Collecting Duct Cell:Kidney	SLC14A2;AQP2
+Transitional principal-intercalated cell:Kidney	SLC4A9;SLC26A7;FXYD4
+Collecting Duct Intercalated Cell:Kidney	CA2;ATP6V0D2
+Collecting Duct Intercalated Cell Type A:Kidney	SLC4A1;SLC26A7;KIT;AQP6;TMEM213
+Cortical Collecting Duct Intercalated Cell Type A:Kidney	SLC4A1;SLC26A7;KIT;AQP6
+Outer Medullary Collecting Duct Intercalated Cell Type A:Kidney	SLC4A1;SLC26A7;CALCA;KIT
+Intercalated Cell Type B:Kidney	SLC4A9;SLC26A4;NTRK1
+Cortical Collecting Duct Intercalated Cell Type B:Kidney	SLC4A9;SLC26A4
+Endothelial Cell:Kidney	EMCN;FLT1;PECAM1
+Afferent Arteriole Endothelial Cell:Kidney	SERPINE2;ADAMTS6;FBLN5;GJA5;TM4SF1;PALMD
+Efferent Arteriole cell:Kidney	ADAMTS6;SERPINE2;TM4SF1;PALMD
+Peritubular Capillary Endothelial Cell:Kidney	ADAMTS6;DNASE1L3;PLVAP;PALMD
+Descending Vasa Recta Endothelial Cell:Kidney	ADAMTS6;SERPINE2;TM4SF1;PALMD
+Ascending Vasa Recta Endothelial Cell:Kidney	DNASE1L3;PLVAP
+Lymphatic Endothelial Cell:Kidney	MMRN1;PROX1;TBX1
+Vascular Smooth Muscle Cell/Pericyte (general):Kidney	NTRK3;MCAM;ACTA2;TAGLN;MYH11
+Juxtaglomerular granular cell (Renin positive):Kidney	REN
+Fibroblast:Kidney	COL1A2;C7;DCN;ZEB2;LUM;COL1A1
+Myofibroblast:Kidney	CCL19;ACTA2;COL1A1;TAGLN;CCL21
+M2-Macrophage:Kidney	CD163;CD14;IL7R
+non Classical Monocyte:Kidney	FCGR3A;LILRB2;ITGAL
+Natural Killer Cell:Kidney	GNLY;NKG7;RUNX3;GZMA
+Natural Killer T Cell:Kidney	GNLY;CD96;GZMA;RUNX3;NKG7;CD247
+Dendritic Cell (general):Kidney	FCER1A;CD1C;CD1E;APOE
+Dendritic Cell (classical):Kidney	ITGAX;FLT3;CLEC9A
+Dendritic Cell (plasmatoid):Kidney	FLT3;IL3RA
+Monocyte:Kidney	C1QA;HLA-DRA
+T Cell:Kidney	CD96;CD40LG;CD3G;CD3D;CD247
+Cytotoxic T Cell:Kidney	CCL4;CCL5;GZMA
+B cell:Kidney	MS4A1;CD79A;JCHAIN
+Plasma cell:Kidney	MZB1;IGKC;JCHAIN;FCRL5
+Neutrophil:Kidney	S100A9;S100A8;FCGR3B;CSF3R
+Mast cell:Kidney	CPA3;MS4A2;KIT

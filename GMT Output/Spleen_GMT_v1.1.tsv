@@ -1,0 +1,63 @@
+Splenic endothelial cell:Spleen	CD106+;CD34+;vWF+;CD141-;CD141+;CD8-;CD31+;PECAM1+
+Catecholaminergic Neuron:Spleen	PGP9.5+;DBH+;TH+;TH;S100+
+Naive B Cell:Spleen	TCL1A+;YBX3+;CD19+;IGHD+;CD79a+;IgD++;FCER2+;MS4A1+;IgM+;CD20+;IL4R+
+Memory-Like B Cell:Spleen	IgD+/-;CD19+;CD79a+;CD27+;MS4A1+;IgM+;CD20+
+Switched B Cell:Spleen	CD19+;IgM-;CD79a+;CD27+;IgD-;MS4A1+;CD20+
+Adventitial Stromal Cell:Spleen	CD271+;CD271+/-
+Splenic Stromal Cell (non-FRC/non-FDC):Spleen	Smooth Muscle Actin+;CD141+/-;CD271+/-;CCL21+;CD105+;CD35-;CXCL13+;CK8/18+;CD271-;Podoplanin-;RANKL-;CD90+;MAd-CAM-1+;Smooth Muscle Actin +/-
+Splenic Smooth Muscle Cell:Spleen	Smooth Muscle Actin+
+Splenic Pericyte:Spleen	Smooth Muscle Actin+;CD271+
+Splenic Stromal Sheath Cell:Spleen	CXCL13+;CD271++
+Macrophage:Spleen	CD5L+;APOE+;CD169-/++;CD271-;CD163-;CD68+
+Reticular Cell of splenic sinusoid:Spleen	Collagen XVIII;Laminin;Collagen XVII;Collagen IV
+Splenic Littoral Cell:Spleen	CD8a+;CD21-;CD45-;CD206+;FHOD1+;CD14-;CD3-;CD34-;vWF+;CD172a+;ACKR1+;CD31+;PECAM1+
+Splenic Red Pulp Stromal Cell:Spleen	CXCL12+;IL-6+;CD54+
+Red Pulp Macrophage:Spleen	CD163+;CD68+;CD5L+;APOE+
+Hematopoetic Stem Cell:Spleen	CD38-;IGLL1+;CPA3+;CD34+;SOX4+;CD19-;CD45RA-;CD90+;HPGDS+
+Monocytes:Spleen	CD14++;CD16+/-;CD11b+;CD14+;FCN1+;VCAN+;CD64+
+Erythrocytes:Spleen	CD235a+
+B cell:Spleen	MS4A1+;CD19+;CD20+;CD79a+
+CD8+ T Cell:Spleen	CD8a+;CD3+;CD4-;CD8+
+Memory CD8+ T Cell:Spleen	CD8a+;CD8+;CD3+;CD45RA-;CD4-
+Plasma Cell:Spleen	XBP1+;CD138+;CD20-;CXCR4+;SDC1+;JCHAIN+;CD79a+;CD27+;IRF4+;IGHG1+;IgM+;IGHM+;CD11a+;CD38++
+Plasmablast:Spleen	XBP1+;CD138+;CD20+/-;CXCR4+;SDC1+;JCHAIN+;CD79a+;CD27+;IRF4+;IGHG1+;IgM+;IGHM+;CD38++
+Dendritic Cell:Spleen	CD11c+
+Platelet:Spleen	CD41+;GP9+;CD42b+;PF4+
+NK Cell:Spleen	NCR1+;CD56+/-;FCGR3A+;NCAM1+;Perforin+;CD160+;NKp30+;CD16+
+Red Pulp Reticular Cell:Spleen	CXCL12+;Integrin a5+;Desmin+;Integrin b1+;PDGFRa+;Integrin a3+;Integrin a4+;CD54+;PDGFRb+
+Neutrophil:Spleen	Myeloperoxidase+;CD15+;Elastase+;CD66+
+Splenic perifollicular zone macrophage:Spleen	CD163+;CD5L+;CD206+/-;DC-SIGN+/-;APOE+;CD169+;CD68+
+Stromal Cell:Spleen	CD90+;CD105+;CD169+
+cDC1 myeloid dendritic cell:Spleen	CLEC9A+;CD11c+;CD141++;XCR1+
+cDC2 myeloid dendritic cell:Spleen	SIRPa+;CD1c+;CD172a+;CD11c+;CLEC10A+
+Monocyte-Derived DC:Spleen	CD11c+;CD16+
+Plasmacytoid Dendritic Cell:Spleen	CD303+;IL3RA+;CD123+;CLEC4C+;CD11c-;CD304+
+DEC205+ DC:Spleen	CD11c+;CD205+;CD74+
+Lymphatic Endothelium Cell:Spleen	vWF+/-;Prox-1++;Podoplanin+;Ulex++;Lyve-1++;D2-40H+;CD31+
+Follicular Dendritic Cell (FDC):Spleen	KLF6+;SOX9+;MFGE8+;FNBP1+;POSTN+;CD90+/-;Smooth Muscle Actin-;Mad-CAM-1-;CD90-;CD105-;CD141-;MAd-CAM-1-;CD271+;CD21+;CR2+;CD23+;FCGR2B+;MADCAM1+;Smooth Muscle Actin +/-;PTHLH+;CD35+;CXCL13+
+Memory B Cell:Spleen	CD19+;CD79a+;CD27+;IgD-;MS4A1+;IgM+;CD20+
+Germinal Center B Cell:Spleen	AICDA+;CD27+;IgD-;Ki67+;CD20+
+T Follicular Helper Cell:Spleen	PDCD1+;PD-1+;CXCR5+;CD4+;CD3+;ICOS+;CD69+
+T Follicular Regulatory Cell:Spleen	PDCD1+;PD-1+;FOXP3+;CXCR5+;CD4+;CD3+;CD25+;IL2RA+
+Tingible Body Macrophage:Spleen	CD68+;CD5L+;APOE+
+Mantle Zone B Cell:Spleen	TNFRSF13B;IgD+/-;CD27+;IgM+;CD20+
+Transitional Immature B Cells:Spleen	CD106+;CD79a+;IGHM+;FCER2+;TCL1A+;CXCR4+;IGHD+;PLPP5+;CD271+;MS4A1+;CD32+;APLP2+;CD54+;CD21+;CD23+;CD20+;Podoplanin+;CD19+;CD35+;CXCL13+;IL4R+
+Superficial Zone B Cell:Spleen	IgD+/-;CD20+;CD1c+;CD23-;IGHM+;CD21+;CD27+;IL6+;CD1c++;IgM++;CD1d+
+CD4+ T cell:Spleen	CD8a+;CD3+;CD4-;CD4+
+Innate Lymphoid Cell (Type 3):Spleen	CD56+/-;CD117+;RORC+;CD161+;AHR+;CD127+;ID2+;NKp44+;CD96+
+Fibroblastic Reticular Cell (FRC):Spleen	ENPP2+;CCL21+;MFGE8+;CD141+;DSC2+;MAd-CAM-1+;CLU+;CD271+;BST1+;IL7+;MAd-CAM-1+/-;CFB+;DCN+;CCL19+;CD90+;MADCAM1+;CTSS+;C3+;CD105+;CXCL9+;Smooth Muscle Actin+/-;CD74+;CXCL13+
+Naive CD4+ T Cell:Spleen	CD8a+;CD4+;CD3+;CD45RA+;CD8-;CD4-
+CD4+ T Cell:Spleen	CD8a+;CD4+;CD3+;CD8-;CD4-
+Naive CD8+ T Cell:Spleen	CD8a+;CD8+;CD3+;CD45RA+;CD4-
+Cytotoxic T Cells:Spleen	CD8+;PRF1+;CD3+;GZMB+;GNLY+
+T Regulatory Cell:Spleen	CCR7+;HGNC:6106;FOXP3+;HGNC:1678;HGNC:6008;HGNC:6024;CD4+;CD3+;CD45RA+;HGNC:9666;CD25+;CD127-;IL2RA+
+Interdigitating Dendritic Cells:Spleen	CD68+;S100+;Vimentin+;CD1a+/-
+Macrophages:Spleen	CD163-;CD68+;CD5L+;APOE+
+Cytotoxic Memory T Cell:Spleen	CD8+;PRF1+;CD45RA+/-;CD27-;CD3+;GZMB+;GNLY+
+Non-Cytotoxic CD8+ Memory T Cell:Spleen	CD8a+;CD8+;CD3+;CD27+;CD45RA-;CD4-
+CD4+ Memory T Cell:Spleen	CD8a+;CD4+;CD3+;CD27+;CD45RA-;CD4-
+Myofibroblasts:Spleen	Smooth Muscle Actin+;Caldesmon+
+Gamma/Delta T cells:Spleen	TCRdelta+;FCGR3A+;TRGV2+;CD3+;TCRgamma+
+Blood Endothelial Cells:Spleen	CD34+;vWF+;CD141+;CD31+;PECAM1+
+Myofibroblast:Spleen	Smooth Muscle Actin+;Caldesmon+
+Subcapsular Dendritic Cell:Spleen	CD11c+;CD123+;CD83+

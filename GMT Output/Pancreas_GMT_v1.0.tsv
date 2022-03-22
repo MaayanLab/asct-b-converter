@@ -1,0 +1,20 @@
+Acinar cell:Pancreas	KRT8;KRT18;PNLIP
+Smooth muscle cell:Pancreas	ACTA2
+Simple columnar epithelial cell:Pancreas	KRT7;CFTR;KRT19
+Flat epithelial cells:Pancreas	CA2
+Pancreatic goblet cell:Pancreas	MUC2
+Tuft cell:Pancreas	AVIL;HPGDS
+Enterochromaffin cell?:Pancreas	CHGA;TPH1;SYP
+B lymphocyte:Pancreas	CD19;CD20;CD45
+T lymphocyte:Pancreas	CD45;CD4;CD3;CD8
+Macrophage:Pancreas	CD68;IBA1;CD206;CD163
+Dendritic cell:Pancreas	CD11c
+Alpha cell:Pancreas	ARX;PGP9.5;SYP;CHGA;GCG
+Beta cell:Pancreas	ENTPD3;PGP9.5;C-peptide;SYP;Insulin;CHGA;INS
+Delta cell:Pancreas	CHGA;SST;PGP9.5;SYP
+PP cell:Pancreas	PPY;CHGA;PGP9.5;SYP
+Epsilon cell:Pancreas	CHGA;SYP;PGP9.5;GHRL
+Gastrin cell:Pancreas	GAST
+Activated stellate cell:Pancreas	LAMA2;ACTA2
+Quiescent stellate cell:Pancreas	PDGFRB
+Adipocyte:Pancreas	HOXC9;Leptin;HOXC8;Asc-1

@@ -1,0 +1,16 @@
+uterine smooth muscle cell:Uterus	caldesmon;calponin;ACTA2;tropomyosin;ALDH;CD90;a smooth muscle actin;MYH11;ACTG2
+endothelial cell:Uterus	ACKR1;CD34;SEMA3G
+SOX9+ epithelial cell:Uterus	EPCAM;MMP7;SOX9
+ciliated epithelial cell:Uterus	EPCAM;PIFO;TPPP3;FOXJ1
+glandular epithelial cell:Uterus	EPCAM;CXCL8;SCGB2A2;PAEP
+luminal epithelial cell:Uterus	EPCAM;LGR5;PTGS1
+stromal cell:Uterus	IGF1;PCOLCE;OGN;MMP11
+perivascular support cell:Uterus	MYH11;ACTA2
+macrophage:Uterus	CD14;SEPP1;CD68;IL1B;CSF1R
+lymphocyte:Uterus	PTPRC;NCAM1
+uterine natural killer cell:Uterus	NCAM1;CD69;CCL5;HMGB2
+uterine dendritic cells:Uterus	CD68;IL1B
+B cell:Uterus	CD69;CXCR4;CCL5;MS4A1
+T cell:Uterus	HMGB2;CD3G;CD69;IL7R;CCL5;CXCR4
+innate lymphoid cell:Uterus	SPINK2;CD69;IL7R;CXCR4;CCL5;KIT
+mast cell:Uterus	CD69;CSF1;KIT;MS4A2

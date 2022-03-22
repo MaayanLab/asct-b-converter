@@ -1,0 +1,40 @@
+Amacrine Cell:Eye	TFAP2C;C1QL1;secretagogin;GAD1;TFAP2A;glutamate decarboxylase 1;SLC6A9;TFAP2B;calbindin 1;GAD2;C1QL2
+glutamic acid decarboxylase 65 cell:Eye	PYGM;secretogranin II;Cocaine- and amphetamine-regulated transcript protein;tachykinin receptor 1;tachykinin receptor 3;vasoactive intestinal polypeptide;SST;glutamic acid decarboxylase 65;CHAT;secretagogin, EF-hand calcium binding protein;neuropeptide Y;TH
+A8 bistratified small-field cell:Eye	calbindin 2;parvalbumin;Vesicular glutamate transporter 3;SYT2;EBF3;SATB2;glycogen phosphorylase B
+wide field cell:Eye	secretogranin II;vasoactive intestinal polypeptide;nitric oxide synthase;glycogen phosphorylase
+semilunar type 1 cell:Eye	neuropeptide Y
+semilunar type 3 cell:Eye	cholecystokinin
+semilunar cell:Eye	Calretinin
+starburst amacrine cell:Eye	choline O-acetyltransferase
+Bipolar Cell:Eye	VSX1;recoverin;GRM6;VSX2;Aquaporin 0;OTX2;G protein subunit alpha o1;visual system homeobox 2;PRKCA;CABP5;TRPM1;Islet-1;GRIK1
+blue cone bipolar cell:Eye	Cholecystokinin
+Diffuse bipolar 1 (DB1):Eye	Secretagogin
+Diffuse bipolar 2 cell:Eye	solute carrier family 1 member 2
+Diffuse bipolar 3a cell:Eye	calbindin 1;sodium voltage-gated channel alpha subunit 1;HCN1;calcium binding protein 1
+Diffuse bipolar 3b cell:Eye	calcium voltage-gated channel subunit alpha1 G;HCN1
+Diffuse bipolar 4 cell:Eye	calcium voltage-gated channel subunit alpha1 G;hyperpolarization activated cyclic nucleotide gated potassium channel 1;protein kinase C alpha;sodium voltage-gated channel alpha subunit 1
+Flat midget bipolar cell:Eye	glycosyltransferase 1 domain containing 1;Recoverin
+invaginating bipolar cell:Eye	cholecystokinin
+ON Bipolar cell:Eye	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3
+rod bipolar cell:Eye	protein kinase C alpha
+retinal cone cell:Eye	phosducin;ARR3;Arrestin-C;GNGT2;opsin 1, short wave sensitive;OPN1LW;GNAT2;PDE6H;opsin 1, long wave sensitive;RCVRN;Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3;GUCA1A;opsin 1, medium wave sensitive;OPN1SW;OPN1MW
+Endothelial Cell:Eye	CLDN5;COL4A1;IGFBP7
+Ganglion cell:Eye	RNA binding protein, mRNA processing factor;POU4F2;melanopsin;RBPMS;SNCG;Œ≤ tubulin;NEFL;POU4F1;Thy-1 cell surface antigen;SLC17A6;THY1;POU4F3;NEFM
+primary lens fiber:Eye	Phakinin
+Horizontal Cell:Eye	ONECUT1;parvalbumin;ONECUT2;CALB1;calbindin 1;LHX1
+lens epithelial cell:Eye	E-cadherin
+lens fiber cell:Eye	Aquaporin 0;Vimentin
+mature fiber cell:Eye	connexin 46
+microglial cell:Eye	allograft inflammatory factor 1
+Muller glia:Eye	SLC1A3;CRYM;APOE;DKK3;CLU;cellular retinaldehyde-binding protein;retinaldehyde binding protein 1;CRABP1;GLUL;GFAP;RLBP1
+Pericyte:Eye	KCNJ8;MYL9;MGP;RGC5;COL4A1
+retinal rod cell:Eye	PDC;GNB1;RHO;GNAT1;NRL;NR2E3;rhodopsin;SAG;GNGT1
+retinal pigmented epithelial cell:Eye	cellular retinaldehyde-binding protein;RPE65;ezrin
+corneal endothelial cell:Eye	N-cadherin
+keratocyte:Eye	PDGFRa;CD34
+telocyte:Eye	PDGFRa;CD34
+corneal epithelial cell:Eye	cytokeratin 12;connexin 43;cytokeratin 3;nestin;E-cadherin
+non-pigmented ciliary epithelial cell:Eye	aquaporin 1;Na/K ATPasea2;Aquaporin 4
+epithelial cell:Eye	aquaporin 1;Na/K ATPasea2;Aquaporin 4
+iris pigment epithelial cell:Eye	ATPase Na+/K+ transporting subunit alpha 1
+pigmented ciliary epithelial cell:Eye	ATPase Na+/K+ transporting subunit alpha 1
