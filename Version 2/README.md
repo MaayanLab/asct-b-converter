@@ -1,4 +1,4 @@
-## Jupyter Script
+## Jupyter Notebook
 Requires file name to be input manually
 
 ## Python Script
