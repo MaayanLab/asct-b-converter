@@ -1,12 +1,12 @@
 liver sinusoid endothelial cell:Liver	CD31 Low;CD105;CD34-/CD31 low/CD105+;CD31
 Kupffer cell:Liver	CD68
-quiescent hepatic stellate cell:Liver	desmin;PDGFRb, GFAP, desmin;PDGFRB
-hepatocyte:Liver	Cyp2D6, canalicular CD10, canalicular BSEP, Heppar1 (mAb);BSEP;CD10
-periportal hepatocyte:Liver	Histidine ammonia-lyase, Cytochrome P450 family 2 subfamily A member 7 (CYP2A7)
-pericentral hepatocyte:Liver	Glutamate ammonia ligase , Cytochrome P450 3A4;Glutamine Synthase, Cytochrome P450 3A4
-mid zone hepatocyte:Liver	Histidine ammonia-lyase, Cytochrome P450 family 2 subfamily A member 7 (CYP2A7)Glutamine Synthase, Cytochrome P450 3A4
-endothelial cell:Liver	E-Selectin, CD34, Pal-E antigen, vWF;CD31, CD34;CD31;?;CD34
-cuboidal cell (Small cholangiocytes are cuboidal):Liver	KRT7;Keratin-19, keratin-7
+quiescent hepatic stellate cell:Liver	desmin;PDGFRb;GFAP;desmin;PDGFRB
+hepatocyte:Liver	Cyp2D6;canalicular CD10;canalicular BSEP;Heppar1 (mAb);BSEP;CD10
+periportal hepatocyte:Liver	HAL;CYP2A7
+pericentral hepatocyte:Liver	Glutamate ammonia ligase;Cytochrome P450 3A4;Glutamine Synthase;Cytochrome P450 3A4
+mid zone hepatocyte:Liver	Histidine ammonia-lyase;CYP2A7;Glutamine Synthase;Cytochrome P450 3A4
+endothelial cell:Liver	E-Selectin;CD34;Pal-E antigen;vWF;CD31;CD34;CD31;CD34
+cuboidal cell (Small cholangiocytes are cuboidal):Liver	KRT7;Keratin-19;keratin-7
 columnar cell ( larger cholangiocytes are more columnar) has ciliae:Liver	CFTR
 neuron cell:Liver	S100, TRPVA;TUBB3
 smooth muscle cell:Liver	smooth muscle actin
