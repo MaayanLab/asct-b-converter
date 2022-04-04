@@ -1,3 +1,6 @@
+## Notes
+Scripts will now pull cell types and biomarkers based on cell ontology and HGNC. Run time is increased considerably.
+
 ## Jupyter Notebook
 Requires file name to be input manually
 
