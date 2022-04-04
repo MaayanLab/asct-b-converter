@@ -1,0 +1,12 @@
+luminal cell of prostate epithelium:Prostate Gland	KLK3;MSMB
+basal cell of prostate epithelium:Prostate Gland	KRT5;S100A2;KRT14
+endocrine-paracrine cell of prostate gland:Prostate Gland	GRP;CHGA;SCG2
+smooth muscle cell of prostate:Prostate Gland	DES
+prostate gland microvascular endothelial cell:Prostate Gland	PECAM1;SELE;CLDN5
+periepithelial fibroblast:Prostate Gland	PTGDS;DCN
+interstitial fibroblast:Prostate Gland	MFAP4;DCN;C7
+vascular smooth muscle:Prostate Gland	CD36;MCAM
+prostate perictye:Prostate Gland	NDUFA4L2;GJA4
+basal cell of prostatic urethra:Prostate Gland	KRT5;KRT15;S100A2
+club cell of prostatic urethra:Prostate Gland	PSCA;SCGB1A1;SCGB3A1
+hillock cell of prostatic urethra:Prostate Gland	LYPD3;KRT13

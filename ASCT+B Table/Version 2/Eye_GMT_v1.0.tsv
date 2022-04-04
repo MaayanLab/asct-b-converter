@@ -1,0 +1,35 @@
+amacrine cell:Eye	C1QL1;TFAP2B;GAD2;SLC6A9;TFAP2C;TFAP2A;CALB1;GAD1;C1QL2;SCGN
+glutamic acid decarboxylase 65 cell:Eye	VIP;TH;SST;GAD2;PYGM;TACR3;CARTPT;CHAT;NPY;TACR1;SCG2;SCGN
+A8 bistratified small-field cell:Eye	EBF3;SATB2;PYGB;SYT2;PVALB;SLC17A8;CALB2
+wide field cell:Eye	VIP;PYGB;SCG2
+semilunar type 1 cell:Eye	NPY
+semilunar type 3 cell:Eye	CCK
+semilunar cell:Eye	CALB2
+starburst amacrine cell:Eye	CHAT
+retinal bipolar neuron:Eye	VSX2;MIP;CABP5;GRIK1;RCVRN;ISL1;TRPM1;GNAO1;GRM6;VSX1;OTX2;PRKCA
+blue cone bipolar cell:Eye	CCK
+Diffuse bipolar 1 (DB1):Eye	SCGN
+Diffuse bipolar 2 cell:Eye	SLC1A2
+Diffuse bipolar 3a cell:Eye	SCN1A;CALB1;CABP1;HCN1
+Diffuse bipolar 3b cell:Eye	CACNA1G;HCN1
+Diffuse bipolar 4 cell:Eye	CACNA1G;PRKCA;SCN1A;HCN1
+Flat midget bipolar cell:Eye	RCVRN;GLT1D1
+invaginating bipolar cell:Eye	CCK
+ON-bipolar cell:Eye	GNB3
+rod bipolar cell:Eye	PRKCA
+capillary layer of choroid:Eye	PLVAP;CA4
+retinal cone cell:Eye	OPN1LW;GNB3;OPN1MW;PDC;RCVRN;PDE6H;OPN1SW;GUCA1A;GNGT2;GNAT2
+retinal blood vessel endothelial cell:Eye	IGFBP7;COL4A1;CLDN5
+retinal ganglion cell:Eye	THY1;OPN4;TUBB;RBPMS
+primary lens fiber:Eye	BFSP2
+retina horizontal cell:Eye	ONECUT1;CALB1;PVALB;LHX1;ONECUT2
+lens epithelial cell:Eye	CDH1
+lens fiber cell:Eye	MIP;VIM
+secondary lens fiber:Eye	GJC2
+obsolete Muller cell:Eye	GFAP;RLBP1
+retinal rod cell:Eye	RHO
+retinal pigment epithelial cell:Eye	EZR;RPE65;RLBP1
+corneal endothelial cell:Eye	CDH2
+keratocyte:Eye	PDGFRA
+telocyte:Eye	PDGFRA
+corneal epithelial cell:Eye	KRT3;CDH1;KRT12;NES

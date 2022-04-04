@@ -1,0 +1,76 @@
+basal cell of epithelium of trachea:Respiratory System	TP63;KRT5;NGFR
+tracheal goblet cell:Respiratory System	MUC5AC;SPDEF;TFF2;MUC5B
+brush cell of trachea:Respiratory System	TRPM5;POU2F3
+ciliated columnar cell of tracheobronchial tree:Respiratory System	TUBB4B;DYNLRB2;RSPH1;FOXJ1
+dense-core granulated cell of epithelium of trachea:Respiratory System	CHGA;GRP;CALCA
+serous cell of epithelium of trachea:Respiratory System	PIGR
+smooth muscle cell of trachea:Respiratory System	MYH11;LGR6
+submucosal gland ciliated duct cells:Respiratory System	DYNLRB2;TUBB4B;RSPH1;TUBA1A;FOXJ1
+submucosal gland basal cells:Respiratory System	TP63;KRT5;FOXC1;KRT14
+submucosal gland secretory:Respiratory System	MUC5AC;SPDEF;TFF2;MUC5B
+submucosal gland collecting duct epithelium:Respiratory System	BPIFA1
+submucosal gland mucous cells:Respiratory System	SPDEF;MUC5B
+submucosal gland serous cells:Respiratory System	LTF;LPO;PIGR;LYZ;PRR4
+myoepithelial cell:Respiratory System	TP63;KRT5
+tracheobronchial chondrocyte:Respiratory System	COL2A1
+endothelial cell of artery:Respiratory System	GJA5;BMX;DKK2;EFNB2
+blood vessel smooth muscle cell:Respiratory System	NTRK3;HEY2;NOTCH3
+venous endothelial cell:Respiratory System	NR2F2;ACKR1;PDZRN4;EPHB4
+ciliated cell of the bronchus:Respiratory System	TUBB4B;DYNLRB2;RSPH1;FOXJ1
+basal epithelial cell of tracheobronchial tree:Respiratory System	TP63;KRT5;NGFR
+lung goblet cell:Respiratory System	MUC5AC;SPDEF;TFF2;MUC5B
+lung neuroendocrine cell:Respiratory System	CHGA;GRP;CALCA
+brush cell of trachebronchial tree:Respiratory System	POU2F3
+pulmonary ionocyte:Respiratory System	CFTR;FOXI1
+serous cell of epithelium of bronchus:Respiratory System	PIGR;LTF;LYZ
+bronchial smooth muscle cell:Respiratory System	MYH11;LGR6
+pulmonary artery endothelial cell:Respiratory System	NOTCH4;DKK2;GJA5;EFNB2;CXCL12
+smooth muscle cell of the pulmonary artery:Respiratory System	NTRK3;NOTCH3
+tracheobronchial smooth muscle cell:Respiratory System	TAGLN;CNN1;MYH11;LGR6
+club cell:Respiratory System	CCKAR;SCGB3A2;CTSE;SCGB1A1;CYP2F1
+basal cells of terminal ciliated ducts of submucosal glands:Respiratory System	TP63;KRT5;FOXC1;KRT14
+ciliated cuboidal epithelium:Respiratory System	TUBB4B;DYNLRB2;RSPH1;FOXJ1
+serous cell of epithelium of lobular bronchiole:Respiratory System	PRR4;LPO;LTF
+smooth muscle cells:Respiratory System	TAGLN;CNN1
+basal cell of epithelium of lobular bronchiole:Respiratory System	TP63;KRT5;NGFR
+serous cell of epithelium of terminal bronchiole:Respiratory System	PIGR;LTF;LYZ
+basal cell of epithelium of terminal bronchiole:Respiratory System	TP63;KRT5;NGFR
+bronchioalveolar stem cells:Respiratory System	SCGB1A1;SFTPC
+lung matrix fibroblast 2:Respiratory System	SCARA5;MFAP5
+matrix fibroblast 1/(Lipofibroblast):Respiratory System	WNT2;TCF21
+type I pneumocyte:Respiratory System	EMP2;CAV1
+type II pneumocyte:Respiratory System	SFTPC
+myofibroblast cell:Respiratory System	LTBP2;PDGFRB;STC1
+pericyte cell:Respiratory System	RERGL;PDGFRB;COX4I2
+CAP1:Respiratory System	PLVAP;IL7R;DTL;GPIHBP1
+CAP2:Respiratory System	EDNRB;CA4;APLN
+pulmonary venous endothelial cell:Respiratory System	ACKR1;PDZRN4
+adult endothelial progenitor cell:Respiratory System	KIT
+endothelial cell of lymphatic vessel:Respiratory System	PROX1;MMRN1
+mesothelial cell of visceral pleura:Respiratory System	WT1;FGF9;UPK3B;MSLN
+basal:Respiratory System	TP63;KRT5;NGFR
+alveolar macrophage:Respiratory System	FABP4;ITGAX;MRC1;CD163;MARCO
+Interstitial macrophage:Respiratory System	IGSF21;SLC40A1;FOLR2;PPARG;STAB1
+connective tissue type mast cell:Respiratory System	KIT;TPSAB1;CMA1;CPA3
+mucosal type mast cell:Respiratory System	KIT;TPSAB1;CPA3
+classical monocyte:Respiratory System	S100A9;FCN1;CCR2;VCAN;CD14
+non-classical monocyte:Respiratory System	RGS18;CSF1R;MS4A7
+basophil:Respiratory System	MS4A2;GATA2
+lung parenchyma resident eosinophil:Respiratory System	RNASE3;EPX
+granulocyte:Respiratory System	CSF1R;CCR2
+T cell:Respiratory System	CD3D;CD3E
+resident memory CD8 T cell:Respiratory System	CD8A;ITGA1;ITGAE
+B cell:Respiratory System	MS4A1;CD22;CD79A;BANK1
+plasma cell:Respiratory System	CD38;SDC1
+natural killer cell:Respiratory System	EOMES;KLRD1;NCR1;NKG7
+CD141-positive myeloid dendritic cell:Respiratory System	CADM1;HLA-DRB1;CLEC9A;THBD;FLT3
+CD1c-positive myeloid dendritic cell:Respiratory System	SIRPA;CD1C;CLEC10A;HLA-DRB1;FCGR2B
+plasmacytoid dendritic cell:Respiratory System	CXCR3;NRP1;HLA-DRB1;CLEC4C;IL3RA
+regulatory T cell:Respiratory System	CTLA4;FANK1;RTKN2;TNFRSF4;FOXP3
+naive thymus-derived CD4-positive, alpha-beta T cell:Respiratory System	CD3E;CCR7;LEF1
+naive thymus-derived CD8-positive, alpha-beta T cell:Respiratory System	CD8B;GMNN;CCR7;MYC
+central memory CD4-positive, alpha-beta T cell:Respiratory System	CD3E;CXCR6;CD40LG
+central memory CD8-positive, alpha-beta T cell:Respiratory System	CD8A;CD3E;CCL5
+mucosal invariant T cell:Respiratory System	KLRG1;KLRB1;PRF1
+CD16-negative, CD56-bright natural killer cell:Respiratory System	XCL1;SPTSSB;XCL2
+megakaryocyte:Respiratory System	ITGA2B
