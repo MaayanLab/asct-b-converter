@@ -8,7 +8,7 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
-import pprint 
+#import pprint 
 
 # # Initialization
 # Input files should be named organ_name.tsv
@@ -98,7 +98,6 @@ def get_url(url):
             soup = BeautifulSoup(xml_data, "xml")
             result_tag = soup.find("result")
             gene_tag = result_tag.find_all('str')
-            print(gene_tag)
             gene_symbol = gene_tag[1].get_text()
         except:
             gene_symbol = ""
