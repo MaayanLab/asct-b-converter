@@ -1,0 +1,19 @@
+pancreatic acinar cell:Pancreas	KRT8;PNLIP;KRT18
+simple columnar epithelial cell:Pancreas	KRT19;CFTR;KRT7
+Flat epithelial cells:Pancreas	CA2
+pancreatic goblet cell:Pancreas	MUC2
+brush cell:Pancreas	HPGDS;AVIL
+type EC enteroendocrine cell:Pancreas	CHGA;SYP;TPH1
+B cell:Pancreas	CD19;PTPRC;MS4A1
+T cell:Pancreas	CD3E;PTPRC;CD4;CD8A
+macrophage:Pancreas	CD163;MRC1;CD68
+dendritic cell:Pancreas	ITGAX
+pancreatic A cell:Pancreas	UCHL1;ARX;CHGA;SYP;GCG
+type B pancreatic cell:Pancreas	UCHL1;ENTPD3;CHGA;INS;SYP
+pancreatic D cell:Pancreas	SST;CHGA;SYP;UCHL1
+pancreatic PP cell:Pancreas	PPY;CHGA;SYP;UCHL1
+pancreatic epsilon cell:Pancreas	UCHL1;CHGA;SYP;GHRL
+gastrin secreting cell:Pancreas	GAST
+Activated stellate cell:Pancreas	LAMA2
+Quiescent stellate cell:Pancreas	PDGFRB
+fat cell:Pancreas	HOXC9;LEP;HOXC8

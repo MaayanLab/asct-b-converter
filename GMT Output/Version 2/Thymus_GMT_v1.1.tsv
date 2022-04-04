@@ -1,0 +1,52 @@
+thymic capsular fibroblast:Thoracic Thymus	C7;HSPB6;MFAP4;SPARCL1;SRPX;PTN;DPT;RSPO3;RBP5;PTGDS
+macrophage:Thoracic Thymus	SLC40A1;C1QC;RNASE1;APOE;SEPP1;C1QA;MS4A7;LGMN;C1QB;STAB1 (general macrophages)
+parasympathetic cholinergic nerve:Thoracic Thymus	
+sympathetic noradrenergic neuron:Thoracic Thymus	
+blood vessel endothelial cell:Thoracic Thymus	NPDC1;PLVAP;SPARCL1;IFI27;TM4SF1;RAMP2;RNASE1;BCAM;A2M;AQP1
+beige adipocyte:Thoracic Thymus	
+thymic interlobular fibroblast:Thoracic Thymus	FN1;COL1A2;LUM;COL14A1;OGN;IGFBP6;COL1A1;MGP;FBN1;COL3A1
+erythroid lineage cell:Thoracic Thymus	HBM;HBA2;BLVRB;FAM178B;ALAS2;HBB;HBG2;HBA1;HBG1;AHSP
+mast cell:Thoracic Thymus	HDC;PLIN2;IL1RL1;TPSAB1;TNFSF10;CPA3;GATA2;LMO4;TPSB2;HPGDS
+eosinophil:Thoracic Thymus	
+subcapsular cortical epithelial cell:Thoracic Thymus	
+early T lineage precursor:Thoracic Thymus	BCL11B;CD19;CD7;CD34;GATA3;CD44;IRF8;CD79B;SPI1;MPO
+double negative thymocyte 2:Thoracic Thymus	BCL11B;CD7;CD34;GATA3;CD44;CD3E;MME;SPI1;TCF7;PTCRA
+double negative thymocyte 3:Thoracic Thymus	BCL11B;CD7;GATA3;CD34;CD3E;TCF7;MME;RAG2;PTCRA
+double negative thymocyte 4:Thoracic Thymus	BCL11B;CD7;GATA3;PTCCRA;TCF7;CD1A;MME;CCD3E;RAG2;DNTT
+thymic cortical macrophage:Thoracic Thymus	SLC40A1;C1QC;RNASE1;APOE;SEPP1;C1QA;MS4A7;LGMN;C1QB;STAB1 (general macrophages)
+double-positive, alpha-beta thymocyte:Thoracic Thymus	CD8A;CD1B;CD8B;UHRRF1;CD1A;CD1E;SMPD3;SH3TC1;ELOVL4
+thymic plasmacytoid dendritic cell:Thoracic Thymus	LILRA4;IRF7;IL3RA;PLD4;GZMB;CCDC50;IRF8;PLAC8;UGCG;JCHAIN
+cortical thymic epithelial cell:Thoracic Thymus	PSMB11;GNG11;S100A14;COX7A1;PLTP;PDLIM1;SCX;PRSS16;CTSV;CCL25
+unswitched memory B cell:Thoracic Thymus	LY86;MS4A1;TNFRSF13B (general memory B);HLA-DRA;CRIP1;GPR183;IGHA1;HLA-DQA1;BANK1;ADAM28
+class switched memory B cell:Thoracic Thymus	LY86;MS4A1;TNFRSF13B (general memory B);HLA-DRA;CRIP1;GPR183;IGHA1;HLA-DQA1;BANK1;ADAM28
+plasmablast:Thoracic Thymus	
+plasma cell:Thoracic Thymus	IGHG1;IGKC;IGHG3;SSR4;FKBP11;XBP1;DERL3;SEC11C;JCHAIN;MZB1
+monocyte:Thoracic Thymus	VCAN;S100A6;CD52;S100A12;S100A9;CTSS;S100A8;FCN1;LYZ;S100A4
+mature CD4 single-positive thymocyte:Thoracic Thymus	SELL;CAMK4;DENND2D;ADD3;C1orf228;IFTIM2;ID2;RPL17;GIMAP7;C1orf288;ABLIM1
+mature CD8 single-positive thymocyte:Thoracic Thymus	CD8A;CD7;RP11-291B21.2;CD8B;GZMM;IL7R;STK17A;ACTN1;CHI3L2;LRRN3
+thymic macrophage:Thoracic Thymus	SLC40A1;C1QC;RNASE1;APOE;SEPP1;C1QA;MS4A7;LGMN;C1QB;STAB1 (general macrophages)
+CD8alpha-positive thymic conventional dendritic cell:Thoracic Thymus	DNASE1L3;RGCC;BATF3;C1orf54;CPVL;IRF8;LGALS2;HLA-DPA1;CLEC9A;LYZ
+CD8alpha-negative thymic conventional dendritic cell:Thoracic Thymus	HLA-DQB1;CD1C;JAML;CLEC10A;MNDA;ALDH2;HLA-DQA1;CTSH;LGALS2;GSN
+endothelial cell of lymphatic vessel:Thoracic Thymus	SDPR;NTS;TFF3;LAPTM5;CCL21;PROX1;TFPI;FABP5;MMRN1;NUPR1
+corticomedullary thymic epithelial cell:Thoracic Thymus	HCFC1R1;KRT5;PLTP;CCL2;TFPI2;CYR61;TDGF1;P3H2;CTSV;CCL25
+CD4-positive, alpha-beta cytotoxic T cell:Thoracic Thymus	GZMA;CKLF;PRDM1;CST7;DUSP4;RNF19A;GZMK;IL10;RGS1;ARID5B
+CD4-positive, alpha-beta memory T cell:Thoracic Thymus	RGCC;KLF2;AP3M2;ANXA1;GPR183;CCR7;RPL36A;LTB;CD69;IL7R
+CD8-positive, alpha-beta memory T cell:Thoracic Thymus	CD8A;RGCC;CCL5;CD8B;CST7;CRTAM;CCL4;NKG7;LYAR;GZMK
+CD8aa(I) thymocyte:Thoracic Thymus	CD8A;NUCB2;LEF1;CD28;PTPN7;LCP2;CD27;PRKCH;CD2;TRAC
+CD8aa(II) thymocyte:Thoracic Thymus	CD7;IKZF2;TRGC2;CTSW;SMIM24;HCST;MME;SMC4;ZNF683;ACTN1
+T follicular helper cell:Thoracic Thymus	DDIT4;FLT3LG;NR4A2;ALG13;CCNH;FAM177A1;FOSB;NDUFV2;IL7R;EIF4A3
+naive regulatory T cell:Thoracic Thymus	IL32;CARD16;PMAIP1;CTLA4;GBP2;PIM2;BATF;FOXP3;TIGIT;S100A4
+gamma-delta T cell:Thoracic Thymus	SELL;AES;TRDC;ANXA1;LAT;CCR9;TESPA1;SMPD3;SH3BP5;FCGRT
+T-helper 17 cell:Thoracic Thymus	NOSIP;RP11-356J5.12;SORL1;ANXA1;CD40LG;KLRB1;CARHSP1;PLAC8;ZBTB16;IL7R
+mucosal invariant T cell:Thoracic Thymus	
+immature NK T cell:Thoracic Thymus	CD8A;XCL1;CCL5;CST7;GIMAP4;GZMM;NKG7;GZMK;SAMD3;ITM2C
+thymic medullary macrophage:Thoracic Thymus	SLC40A1;C1QC;RNASE1;APOE;SEPP1;C1QA;MS4A7;LGMN;C1QB;STAB1 (general macrophages)
+naive B cell:Thoracic Thymus	MS4A1;HLA-DQB1;HLA-DRA;IGHM;CD22;BIRC3;IGHD;CD79A;TCL1A;FCER2
+group 3 innate lymphoid cell, human:Thoracic Thymus	JAML;TRDC;KRT86;CD52;LST1;KLRB1;LTB;TMIGD2;IL7R;S100A4
+natural killer cell:Thoracic Thymus	KLRC1;KLRD1;HOPX;NKG7;KLRF1;KLRB1;XCL2;GNLY;CMC1;TYROBP
+medullary thymic epithelial cell type 1:Thoracic Thymus	FN1;KRT14;CCL19;KRT5;KRT15;SAA1;CLU;CH25H;KRT19;PTGDS
+medullary thymic epithelial cell type 2:Thoracic Thymus	NTHL1;SNCG;CCL19;FGF17;TYW3;HLA-DQA1;KRT17;CALML3;CSTA;VIM
+medullary thymic epithelial cell type 3:Thoracic Thymus	DEFB1;LY6D;PERP;S100A9;SLPI;SFN;CALML5;KRT6A;SPINK5 (general mTEC(III));KRT19
+medullary thymic epithelial cell type 4; thymic tuft cells:Thoracic Thymus	EPCAM;ANXA1;ANXA4;LRMP;HEPACAM2;KRT8;BMX;KRT18;FOXI1;RASSF6
+myo-medullary thymic epithelial cell:Thoracic Thymus	MYLPF;ACTA1;NNAT;TNNI2;TTN;MYOG;TPM2;TNNT3;KLHL41;NEB
+neuro-medullary thymic epithelial cell:Thoracic Thymus	NNAT;CLDN3;PCSKIN;CIB2;CAMK2B;KIF19;MAP1B;BEX1;HES6;TUBA1A

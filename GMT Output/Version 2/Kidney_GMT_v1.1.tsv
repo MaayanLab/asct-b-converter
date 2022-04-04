@@ -1,0 +1,62 @@
+capsule mesenchymal stromal cell:Kidney	VSX2;FOXD1
+parietal epithelial cell:Kidney	CRB2;CFH;CLDN1;VCAM1
+glomerular visceral epithelial cell:Kidney	NPHS2;NPHS1;PODXL
+glomerular capillary endothelial cell:Kidney	EMCN;FLT1;EHD3;PLAT;HECW2
+glomerular mesangial cell:Kidney	SYNPO2;ITGA8;PIEZO2;PDGFRB;ROBO1;POSTN
+epithelial cell of proximal tubule:Kidney	GATM;CUBN;SLC13A1;LRP2
+Proximal Tubule Epithelial Cell Segment 1:Kidney	SLC5A12;SLC22A6;PRODH;SLC34A1;SLC22A8;SLC5A2
+Proximal Tubule Epithelial Cell Segment 2:Kidney	SLC13A3;SLC22A8;SLC22A6;SLC34A1;ACSM2A;SLC5A11
+Proximal Tubule Cell Epithelial Segment 3:Kidney	SLC17A1;MOGAT1;SLC5A11;SLC22A7;SATB2
+kidney loop of Henle thin descending limb epithelial cell:Kidney	VCAM1;CRYAB;SATB2;SPP1
+Descending Thin Limb Cell Type 1:Kidney	ID1;SLC14A2;JAG1;SPP1;CPE;CRYAB;SATB2;TACSTD2
+Descending Thin Limb Cell Type 2:Kidney	SLC4A11;SLC9A3;SLC39A8;CRYAB;TACSTD2
+Descending Thin Limb Cell Type 3:Kidney	SLC4A11;SLC14A2;SH3GL3;CRYAB;CLDN1;TACSTD2
+kidney loop of Henle thin ascending limb epithelial cell:Kidney	CLDN3;SH3GL3;CLCNKA;PROX1;CRYAB;TACSTD2
+kidney loop of Henle thick ascending limb epithelial cell:Kidney	CASR;SLC12A1;UMOD
+kidney loop of Henle cortical thick ascending limb epithelial cell:Kidney	TMEM207;UMOD;CLDN16;CASR;SLC12A1
+kidney loop of Henle medullary thick ascending limb epithelial cell:Kidney	UMOD;RAP1GAP;PROX1;CASR;SLC12A1
+macula densa epithelial cell:Kidney	ROBO2;SLC12A1;NOS1
+kidney distal convoluted tubule epithelial cell:Kidney	TRPM6;SALL3;CALB1;SLC12A3
+Distal Convoluted Tubule Cell Type 1:Kidney	TRPM6;SLC12A3
+Distal Convoluted Tubule Cell Type 2:Kidney	SLC8A1;TRPV5;SCNN1G;SLC12A3;HSD11B2;CALB1
+kidney connecting tubule epithelial cell:Kidney	SLC8A1;TRPV5;SCNN1G;HSD11B2;CALB1;GATA3
+Connecting Tubule Principal Cell:Kidney	SCNN1G;FXYD4
+Connecting Tubule Intercalated Cell:Kidney	CA2;SLC8A1;ATP6V0D2
+Connecting Tubule Intercalated Cell Type A:Kidney	SLC4A1;SLC26A7;SLC8A1
+Connecting Tubule Intercalated Cell Type B:Kidney	SLC8A1;SLC26A4;SLC4A9
+kidney collecting duct epithelial cell:Kidney	GATA3
+kidney collecting duct principal cell:Kidney	SCNN1G;FXYD4;GATA3
+kidney cortex collecting duct principal cell:Kidney	SCNN1G;FXYD4;GATA3
+kidney outer medulla collecting duct principal cell:Kidney	SCNN1G;FXYD4;GATA3
+kidney inner medulla collecting duct principal cell:Kidney	SLC14A2
+Transitional principal-intercalated cell:Kidney	SLC26A7;FXYD4;SLC4A9
+kidney collecting duct intercalated cell:Kidney	CA2;ATP6V0D2
+Collecting Duct Intercalated Cell Type A:Kidney	SLC4A1;SLC26A7;TMEM213;KIT
+kidney cortex collecting duct intercalated cell:Kidney	SLC4A1;SLC26A4;SLC4A9;KIT;SLC26A7
+kidney outer medulla collecting duct intercalated cell:Kidney	SLC4A1;SLC26A7;KIT;CALCA
+renal beta-intercalated cell:Kidney	NTRK1;SLC26A4;SLC4A9
+endothelial cell:Kidney	EMCN;PECAM1;FLT1
+kidney afferent arteriole endothelial cell:Kidney	PALMD;TM4SF1;SERPINE2;FBLN5;GJA5
+kidney efferent arteriole endothelial cell:Kidney	PALMD;TM4SF1;SERPINE2
+peritubular capillary endothelial cell:Kidney	PALMD;DNASE1L3;PLVAP
+vasa recta descending limb cell:Kidney	PALMD;TM4SF1;SERPINE2
+vasa recta ascending limb cell:Kidney	DNASE1L3;PLVAP
+endothelial cell of lymphatic vessel:Kidney	PROX1;MMRN1;TBX1
+renal interstitial pericyte:Kidney	TAGLN;NTRK3;MCAM;MYH11
+kidney granular cell:Kidney	REN
+kidney interstitial fibroblast:Kidney	DCN;C7;ZEB2;COL1A1;COL1A2;LUM
+kidney interstitial myofibroblast:Kidney	CCL21;TAGLN;COL1A1;CCL19
+kidney resident macrophage:Kidney	CD163;IL7R;CD14
+non-classical monocyte:Kidney	FCGR3A
+natural killer cell:Kidney	NKG7;GZMA;GNLY;RUNX3
+mature NK T cell:Kidney	NKG7;GZMA;GNLY;CD96;RUNX3
+dendritic cell, human:Kidney	CD1C;CD1E;FCER1A
+conventional dendritic cell:Kidney	CLEC9A;FLT3;ITGAX
+plasmacytoid dendritic cell, human:Kidney	IL3RA;FLT3
+monocyte:Kidney	C1QA;HLA-DRA
+T cell:Kidney	CD40LG;CD96;CD3G;CD3D
+cytotoxic T cell:Kidney	GZMA;CCL5;CCL4
+B cell:Kidney	JCHAIN;MS4A1;CD79A
+plasma cell:Kidney	JCHAIN;FCRL5;IGKC;MZB1
+neutrophil:Kidney	S100A9;S100A8;FCGR3B
+mast cell:Kidney	MS4A2;CPA3;KIT
