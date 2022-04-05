@@ -1,0 +1,51 @@
+enterocyte of epithelium of large intestine:Large Intestine	KRT20;BEST4
+large intestine crypt goblet cell:Large Intestine	KRT20;MUC2
+intestinal crypt stem cell of large intestine:Large Intestine	LGR5;CD44;SOX9;LRIG1;SMOC2;RGMB
+paneth cell of colon:Large Intestine	DEFA5
+neuroendocrine cell:Large Intestine	INSM1;SYP;CHGA;INSL5
+transit amplifying cell of colon:Large Intestine	KRT20
+intestinal tuft cell:Large Intestine	TRPM5;POU2F3;DCLK1;KRT20;PTGS1
+CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell:Large Intestine	CD5;CD3D;CD2;CD7;CD3W;CD8A
+surface intraepithelial CD8+ lymphocyte gamma/delta:Large Intestine	CD5;CD3D;CD2;CD7;CD3W;CD8A
+CD8-alpha-beta-positive, alpha-beta intraepithelial T cell:Large Intestine	CD5;CD3D;CD2;CD7;CD3W;CD8A
+CD4-positive, alpha-beta intraepithelial T cell:Large Intestine	CD5;CD3D;CD7;CD4;CD3W
+CD4-negative, CD8-negative, alpha-beta intraepithelial T cell:Large Intestine	CD7;CD3D;CD3W;CD5
+mature eosinophil:Large Intestine	PTGDR2;ITGAM
+pericryptal fibroblastic sheath:Large Intestine	WNT2B;RSPO3
+capillary endothelial cell:Large Intestine	CD36;CD34;PECAM1
+endothelial cell of lymphatic vessel:Large Intestine	CD274;LYVE1;UCHL1;PDPN;PECAM1;NCAM1
+pericyte cell:Large Intestine	PDGFRB;KIT;CD34
+fibroblast:Large Intestine	COL6A1;COL6A2
+Schwann cell:Large Intestine	CD274;S100A2;UCHL1;BID;BST2;NCAM1
+ganglion:Large Intestine	MAP2;PRPH
+lymphocyte of large intestine lamina propria:Large Intestine	CR2;CD2;CD19;IL2RA;CD79A;CD7;CD8A;CD5;FOXP3;CD3D;IL7R;KIT;KLRB1;ITGAX;MS4A1;CD3W;CD4;KLRK1;NCAM1
+macrophage:Large Intestine	CD74;CD3D;CD68;MRC1;CD4;ITGAM;CD163
+endothelial cell of high endothelial venule:Large Intestine	MADCAM1
+plasma cell:Large Intestine	SDC1
+mast cell:Large Intestine	KIT;SLC16A1
+mature neutrophil:Large Intestine	FCGR3A;FUT4
+dendritic cell:Large Intestine	CD74;IL3RA;ITGAX;ITGAE;ITGAM
+fat cell:Large Intestine	BID
+endothelial cell of arteriole:Large Intestine	CD36;CD34;PECAM1
+endothelial cell of venule:Large Intestine	CD36;CD34;PECAM1
+smooth muscle cell of large intestine:Large Intestine	SMTN
+mesothelial cell of visceral peritoneum:Large Intestine	KRT8;CALB2;KRT18
+transitional epithelial cell:Large Intestine	KRT7;KRT19
+simple columnar epithelial cell:Large Intestine	KRT7
+stratified squamous epithelial cell:Large Intestine	KRTAP5-6;CHAF1B
+Langerhans cell:Large Intestine	CD207;CD1A
+melanocyte:Large Intestine	MLANA;BID;SOX10;S100B
+Merkel cell:Large Intestine	KRT20;SYP;CHGA
+keratinocyte:Large Intestine	KRTAP5-6
+sebum secreting cell:Large Intestine	KRT7
+eccrine cell:Large Intestine	KRT7
+apocrine cell:Large Intestine	KRT7
+T-helper 1 cell:Large Intestine	CD3D;CD4;CD8A
+cytotoxic T cell:Large Intestine	FOXP3;CD3D;CD4;CD8A
+regulatory T cell:Large Intestine	FOXP3;CD3D;CD19;CD79A;CD4
+B cell:Large Intestine	CD79A;CD19;PTGDR2;ITGAM
+perineural cell:Large Intestine	CD34
+type I cell of carotid body:Large Intestine	DRD2
+immature NK T cell stage IV:Large Intestine	PDPN;PECAM1
+vein endothelial cell:Large Intestine	CD36;CD34;PECAM1
+skeletal muscle cell:Large Intestine	DES
